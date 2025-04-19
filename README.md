@@ -66,20 +66,20 @@
 
 ### 🏨 Application de Gestion Hôtelière (HOTELPLUS) 
 <details>
-  <summary><strong> 📍 ESTO Oujda – (Fév 2025 à Mars 2025)</strong></summary>
+  <summary><strong>  ESTO Oujda – (Fév 2025 à Mars 2025)</strong></summary>
        Technologies: html css javascript ajax php AJAX mvc Mysql
 </details>
 
 ### 🧮  Application bancaire (Bank Management) 
 <details>
-  <summary><strong>📍 ESTO Oujda – (Oct 2024 à Déc 2024)</strong></summary>
+  <summary><strong> ESTO Oujda – (Oct 2024 à Déc 2024)</strong></summary>
   Technologies: Qt Creator, C++  ,sqlite 
   Banking system with secure authentication, account management, and automated processes.
 </details>
 
 ### 📑 Application de gestion de tâches (TO-DO App)  
 <details>
-  <summary><strong>📍 Stage chez SupMTI Oujda – (Juil 2024) </strong></summary>
+  <summary><strong> Stage chez SupMTI Oujda – (Juil 2024) </strong></summary>
   Technologies: html, css, javascripy, php,mysql 
 </details>
 
