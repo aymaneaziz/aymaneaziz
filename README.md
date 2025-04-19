@@ -161,7 +161,7 @@
       </tr>
       <tr>
         <td width="250px">
-          <img src="https://github.com/user-attachments/assets/99d378fb-d858-4e45-b87e-26a510c5746e" alt="Task Management Application"  width="80%" style="border-radius: 10px;">
+          <img src="https://github.com/user-attachments/assets/99d378fb-d858-4e45-b87e-26a510c5746e" alt="Task Management Application"  width="80%" height="80%" style="border-radius: 10px;">
         </td>
         <td>
           <h3>📑 Task Management Application (TO-DO App)</h3>
