@@ -64,20 +64,20 @@
 
 ## 📂 My Projects
 
-### 🧠 Application de Gestion Hôtelière (HOTELPLUS) 
+# 🧠 Application de Gestion Hôtelière (HOTELPLUS) 
 <details>
   <summary>*ESTO Oujda* – Fév 2025 à Mars 2025 </strong></summary>
   html css javascript ajax php AJAX mvc
 </details>
 
-### 🧮  Application bancaire (Bank Management) 
+# 🧮  Application bancaire (Bank Management) 
 <details>
   <summary><strong>📍 *ESTO Oujda* – Oct 2024 à Déc 2024</strong></summary>
   Technologies: Qt Creator, C++  
   Banking system with secure authentication, account management, and automated processes.
 </details>
 
-### 🧠 Application de gestion de tâches (TO-DO App)  
+# 🧠 Application de gestion de tâches (TO-DO App)  
 <details>
   <summary><strong>📍 *Stage chez SupMTI Oujda* – Juil 2024 </strong></summary>
   Technologies: C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports
