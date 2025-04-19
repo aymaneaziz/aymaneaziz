@@ -5,8 +5,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="310"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" height="310"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&margin-w=3" alt="Most Used Languages" height="300"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" height="300"/>
 </div>
 
 <p align="center">
@@ -234,11 +234,11 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Aymane%20AZIZ-F43F5E?style=for-the-badge" alt="Made with love">
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Aymane%20AZIZ-F43F5E?style=for-the-badge" alt="Made with love">
-</p>
