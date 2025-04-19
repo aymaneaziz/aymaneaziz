@@ -93,7 +93,7 @@
 
 <h2 align="center">🎓 Licenses and Certifications</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
 
   <!-- Udemy - Advanced Java -->
   <div align="center">
@@ -114,9 +114,9 @@
   </div>
 
   <!-- HP LIFE - Data Science -->
-  <div align="center">
+<div align="center">
     <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa" target="_blank">
-      <img src="https://img.shields.io/badge/HP%20LIFE%20-%20Data%20Science%20%26%20Analytics-red?style=for-the-badge&logo=data:image/svg+xml;base64," alt="HP LIFE: Data Science & Analytics">
+      <img src="https://img.shields.io/badge/HP%20LIFE%20-%20Data%20Science%20%26%20Analytics-red?style=for-the-badge&logo=hp" alt="HP LIFE: Data Science & Analytics">
     </a>
     <br>
     <strong>Issued:</strong> November 2024
@@ -140,7 +140,6 @@
     <strong>Issued:</strong> October 2024
   </div>
 
-</div>
 
 
 
@@ -148,7 +147,8 @@
 
 
 
-<h2 align="center">📈 Activité GitHub</h2>
+
+<h2 align="center">📈  Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&theme=react-dark" alt="Contribution Graph" />
