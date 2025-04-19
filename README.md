@@ -33,9 +33,10 @@
 </div>
 
 
-## 🚀 About Me
 
-  <div align="center" text-align: justify;>
+  <h2> 🚀 About Me </h2>
+  <div align="center" text-align="justify">
+  
   <table>
     <tr>
       <td>
