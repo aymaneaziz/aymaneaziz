@@ -1,25 +1,9 @@
-## Hi there 👋
-
-<!--
-**Eqwack/Eqwack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+AZIZ+Aymane;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;.NET+%26+Angular+Developper;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;.NET+%26+Angular+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,49 +14,51 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=radical" alt="Aymane's GitHub Stats" />
-</p> 
+</p>
+
+---
 
 <h2 align="center">🎓 Education</h2>
 
-- **Baccalaureate - sciences physique** (2022 - 2023)  
-  Ecole al MANBAEE, Oujda, Morocco
-  
-- **Techencien specialiseé - Computer Science** (2023 - 2025)
-Esto ,oujda
+- **Baccalauréat - Sciences Physiques** (2022 - 2023)  
+  Lycée Al Manbaee, Oujda, Maroc
 
+- **Technicien Spécialisé - Développement Informatique** (2023 - 2025)  
+  École Supérieure de Technologie, Oujda (ESTO)
 
-<h2 align="center">🛠️ Skills & Technologies</h2>
+---
+
+<h2 align="center">🛠️ Compétences & Technologies</h2>
 
 <p align="center">
-  <!-- Langages de Programmation -->
-
+  <!-- Langages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  javascript
-  php
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <!-- Bases de Données -->
-  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+
+  <!-- Bases de données -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  sqlite
-  oralcle db 
-  
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+
   <!-- Frameworks -->
-  symfony
-  javafx
-  Qt 
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+  <img src="https://img.shields.io/badge/JavaFX-4479A1?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-  
-  
-  <!-- Outils et autres -->
+
+  <!-- Outils -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  uml 
-  xml
-  
+  <img src="https://img.shields.io/badge/UML-007ACC?style=for-the-badge" alt="UML">
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge" alt="XML">
+</p>
+
 </p>
 
 
