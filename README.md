@@ -60,7 +60,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=6366F1&point=FFFFFF&hide_border=false" width="98%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=F11F94&point=FFFFFF&hide_border=false" width="100%" alt="Contribution Graph" />
 </div>
 
 
