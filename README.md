@@ -47,11 +47,7 @@
         </ul>
       </td>
       <td width="40%">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-contribution-grid-snake.svg">
-          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-contribution-grid-snake.svg">
-        </picture>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U1Z2RoZ2UzeGRsNm9ndXQ3M2RyNjNvMmcweWduemc3dHc3cnZkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%">
       </td>
     </tr>
   </table>
@@ -148,7 +144,7 @@
     <table>
       <tr>
         <td width="300px">
-          <img src="https://via.placeholder.com/300x200/4F46E5/FFFFFF?text=Hotel+Management" alt="Hotel Management System" style="border-radius: 10px;">
+          <img src="https://dummyimage.com/300x200/4F46E5/FFFFFF&text=Hotel+Management" alt="Hotel Management System" style="border-radius: 10px;">
         </td>
         <td>
           <h3>🏨 Hotel Management System (HOTELPLUS)</h3>
@@ -165,7 +161,7 @@
       </tr>
       <tr>
         <td width="300px">
-          <img src="https://via.placeholder.com/300x200/4F46E5/FFFFFF?text=Banking+App" alt="Banking Application" style="border-radius: 10px;">
+          <img src="https://dummyimage.com/300x200/4F46E5/FFFFFF&text=Banking+App" alt="Banking Application" style="border-radius: 10px;">
         </td>
         <td>
           <h3>🧮 Banking Application (Bank Management)</h3>
@@ -181,7 +177,7 @@
       </tr>
       <tr>
         <td width="300px">
-          <img src="https://via.placeholder.com/300x200/4F46E5/FFFFFF?text=Task+Management" alt="Task Management Application" style="border-radius: 10px;">
+          <img src="https://dummyimage.com/300x200/4F46E5/FFFFFF&text=Task+Management" alt="Task Management Application" style="border-radius: 10px;">
         </td>
         <td>
           <h3>📑 Task Management Application (TO-DO App)</h3>
@@ -202,24 +198,28 @@
 ## 🏆 Certifications & Achievements
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div>
     <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/">
       <img src="https://img.shields.io/badge/Udemy-Advanced_Java_with_OOP-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Advanced Java with OOP">
     </a>
-    
-  <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/">
+  </div>
+  <div>
+    <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/">
       <img src="https://img.shields.io/badge/Udemy-Java_Mastery_Intermediate-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Java Mastery Intermediate">
     </a>
-    
-  <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa">
+  </div>
+  <div>
+    <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa">
       <img src="https://img.shields.io/badge/HP_LIFE-Data_Science_&_Analytics-0096D6?style=for-the-badge&logo=hp&logoColor=white" alt="Data Science & Analytics">
     </a>
-    
-  <a href="https://www.credly.com/badges/40cfbed1-6c70-41fb-adc6-b75ac4f41a24">
+  </div>
+  <div>
+    <a href="https://www.credly.com/badges/40cfbed1-6c70-41fb-adc6-b75ac4f41a24">
       <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Python Essentials 1">
     </a>
-    
-   <a href="https://coursera.org/share/1c3dbfb3bf48f978529d4805ce23c266">
+  </div>
+  <div>
+    <a href="https://coursera.org/share/1c3dbfb3bf48f978529d4805ce23c266">
       <img src="https://img.shields.io/badge/Coursera-Business_Analysis_&_Process_Management-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Business Analysis">
     </a>
   </div>
@@ -264,6 +264,10 @@ IntelliJ IDEA    ██░░░░░░░░░░░░░░░░░░   
   <a href="https://www.instagram.com/aymaneaziz">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <h3 align="center">
