@@ -35,7 +35,7 @@
 
 
   <h2> 🚀 About Me </h2>
-  <div align="center" text-align="justify">
+  <div align="center" style="text-align:justify">
   
   <table>
     <tr>
