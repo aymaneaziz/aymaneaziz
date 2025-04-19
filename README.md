@@ -100,6 +100,16 @@
   <strong>Issued on:</strong> January 2025
 </p>
 
+<p align="center">
+  <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/">
+    <img src="https://img.shields.io/badge/Udemy-Java%20Mastery%20Intermediate-orange?style=for-the-badge" alt="Udemy: Java Mastery Intermediate: Methods, Collections, and Beyond">
+  </a>
+  <br>  
+
+  <strong>Issued on:</strong> November 2024
+</p>
+
+
 
 <h2 align="center">📈 Activité GitHub</h2>
 
