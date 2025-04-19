@@ -20,6 +20,7 @@
   </a>
 </div>
 
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=algolia&margin-w=4" alt="Most Used Languages" height="250"/>
@@ -53,8 +54,8 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&bg_color=0D1117" height="170px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneaziz&theme=tokyonight&hide_border=false&background=0D1117" height="170px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&bg_color=0D1117" height="170px" width="50%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneaziz&theme=tokyonight&hide_border=false&background=0D1117" height="170px" width="50%" alt="GitHub Streak" />
 </div>
 
 
