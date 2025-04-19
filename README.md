@@ -93,45 +93,55 @@
 
 <h2 align="center">🎓 Licenses and Certifications</h2>
 
-<p align="center">
-  <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/">
-    <img src="https://img.shields.io/badge/UDEMY%20Advanced%20Java%20with%20OOP-yellow?style=for-the-badge" alt="Udemy: Mastering Advanced Java with Object-Oriented Programming">
-  </a>
-  <br>  
-  <strong>Issued on:</strong> January 2025
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<p align="center">
-  <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/">
-    <img src="https://img.shields.io/badge/UDEMY%20Mastery%20Intermediate-orange?style=for-the-badge" alt="Udemy: Java Mastery Intermediate: Methods, Collections, and Beyond">
-  </a>
-  <br>  
-  <strong>Issued on:</strong> November 2024
-</p>
+  <!-- Udemy - Advanced Java -->
+  <div align="center">
+    <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/" target="_blank">
+      <img src="https://img.shields.io/badge/Udemy%20-%20Advanced%20Java%20with%20OOP-yellow?style=for-the-badge&logo=Udemy" alt="Udemy: Advanced Java with OOP">
+    </a>
+    <br>
+    <strong>Issued:</strong> January 2025
+  </div>
 
-<p align="center">
-  <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa">
-    <img src="https://img.shields.io/badge/HP-LIFE%20Global-Data%20Science%20%26%20Analytics-red?style=for-the-badge" alt="LIFE Global: Data Science & Analytics">
-  </a>
-  <br>  
-  <strong>Issued on:</strong> November 2024
-</p>
+  <!-- Udemy - Java Mastery Intermediate -->
+  <div align="center">
+    <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/" target="_blank">
+      <img src="https://img.shields.io/badge/Udemy%20-%20Java%20Mastery%20Intermediate-orange?style=for-the-badge&logo=Udemy" alt="Udemy: Java Mastery Intermediate">
+    </a>
+    <br>
+    <strong>Issued:</strong> November 2024
+  </div>
 
-<p align="center">
-  <a href="https://www.credly.com/badges/40cfbed1-6c70-41fb-adc6-b75ac4f41a24">
-    <img src="https://img.shields.io/badge/CISCO%20Essentials%201-blue?style=for-the-badge" alt="Credly: Python Essentials 1">
-  </a>
-  <br>  
-  <strong>Issued on:</strong> November 2024
-</p>
+  <!-- HP LIFE - Data Science -->
+  <div align="center">
+    <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa" target="_blank">
+      <img src="https://img.shields.io/badge/HP%20LIFE%20-%20Data%20Science%20%26%20Analytics-red?style=for-the-badge&logo=data:image/svg+xml;base64," alt="HP LIFE: Data Science & Analytics">
+    </a>
+    <br>
+    <strong>Issued:</strong> November 2024
+  </div>
 
-<p align="center">
-  <a href="https://coursera.org/share/1c3dbfb3bf48f978529d4805ce23c266">
-    <img src="https://img.shields.io/badge/COURSERA%20Analysis%20%26%20Process%20Management-00008B?style=for-the-badge" alt="Coursera: Business Analysis & Process Management">
-  </a>
-  <br>  
-  <strong>Issued on:</strong> October 2024
-</p>
+  <!-- Cisco - Python Essentials 1 -->
+  <div align="center">
+    <a href="https://www.credly.com/badges/40cfbed1-6c70-41fb-adc6-b75ac4f41a24" target="_blank">
+      <img src="https://img.shields.io/badge/Cisco%20-%20Python%20Essentials%201-007ACC?style=for-the-badge&logo=python" alt="Cisco: Python Essentials 1">
+    </a>
+    <br>
+    <strong>Issued:</strong> November 2024
+  </div>
+
+  <!-- Coursera - Business Analysis -->
+  <div align="center">
+    <a href="https://coursera.org/share/1c3dbfb3bf48f978529d4805ce23c266" target="_blank">
+      <img src="https://img.shields.io/badge/Coursera%20-%20Business%20Analysis%20%26%20Process%20Management-00008B?style=for-the-badge&logo=Coursera" alt="Coursera: Business Analysis & Process Management">
+    </a>
+    <br>
+    <strong>Issued:</strong> October 2024
+  </div>
+
+</div>
+
 
 
 
