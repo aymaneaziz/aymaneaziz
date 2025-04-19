@@ -145,7 +145,7 @@
       </tr>
       <tr>
         <td  align="center" width="250px">
-          <img src="https://github.com/user-attachments/assets/f75aaf43-3ecd-4375-b03f-51619db26d0d" alt="Banking Application"  width="180px" >
+          <img src="https://github.com/user-attachments/assets/7ab1a8e6-cec7-4b73-b243-78081fff0287" alt="Banking Application"  width="180px" >
         </td>
         <td>
           <h3>🧮 Banking Application (Bank Management)</h3>
@@ -163,8 +163,7 @@
             <td align="center" width="250px">
               <img src="https://github.com/user-attachments/assets/f217de72-d5e4-47a4-b1a7-2b7bb8705391" alt="Task Management Application"  width="180px">
             </td>
-     
-  <td>
+           <td>
           <h3>📑 Task Management Application (TO-DO App)</h3>
           <p><b>SUPMTI Internship | Jul 2024</b></p>
           <p>Development of an application for managing tasks, projects, and progress tracking.</p>
