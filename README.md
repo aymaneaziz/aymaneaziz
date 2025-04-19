@@ -63,6 +63,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/youtube/comments/:videoId">
   <img src="https://img.shields.io/badge/Entity%20Framework-86B8AB?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework">
   <img src="https://img.shields.io/badge/Windows%20Forms-5E5E5E?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms">
+  https://img.shields.io/symfony/i/grade/:projectUuid
+
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/ADO.NET-9B1D20?style=for-the-badge&logo=microsoft&logoColor=white" alt="ADO.NET">
   
