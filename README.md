@@ -14,15 +14,12 @@
   
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=0891B2&style=for-the-badge" alt="Profile Views" />
-</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=tokyonight" height="170px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneaziz&theme=tokyonight" height="170px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=radical" height="170px" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&theme=react-dark" height="170px" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -92,11 +89,8 @@ I'm a passionate software developer from Morocco with a strong focus on creating
 ## 💼 Professional Experience
 
 <div align="left">
-  <h4>🔹 End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025)</h4>
-  <p>Currently working on web development projects using modern frameworks</p>
-  
-  <h4>🔹 Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)</h4>
-  <p>Developed a task management application using PHP and MySQL</p>
+  <h2>🔹 End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025)</h2>
+  <h2>🔹 Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)</h2>
 </div>
 
 ## 📂 Projects
@@ -149,21 +143,7 @@ I'm a passionate software developer from Morocco with a strong focus on creating
   </a>
 </div>
 
-## 📈 GitHub Activity
 
-```text
-💻 Most Used Languages
-PHP          ██████████████████░░░░░   70%
-Java         ███████░░░░░░░░░░░░░░░░   30% 
-JavaScript   █████░░░░░░░░░░░░░░░░░░   20%
-C++          ███░░░░░░░░░░░░░░░░░░░░   15%
-HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░   10%
-
-🕐 Weekly Development Breakdown
-Backend Development   ████████████░░░░░░░░░   60%
-Frontend Development  ██████░░░░░░░░░░░░░░░   30%
-DevOps                ██░░░░░░░░░░░░░░░░░░░   10%
-```
 
 ## 📱 Connect With Me
 
@@ -182,6 +162,10 @@ DevOps                ██░░░░░░░░░░░░░░░░░�
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+growing.;Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
 </h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=0891B2&style=for-the-badge" alt="Profile Views" />
+</div>
 
 ---
 
