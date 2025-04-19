@@ -66,22 +66,21 @@
 
 ### 🧠 Application de Gestion Hôtelière (HOTELPLUS) 
 <details>
-  <summary><strong> 📍 ESTO Oujda – Fév 2025 à Mars 2025 </strong></summary>
-  html css javascript ajax php AJAX mvc Mysql
+  <summary><strong> 📍 ESTO Oujda – (Fév 2025 à Mars 2025)</strong></summary>
+       Technologies: html css javascript ajax php AJAX mvc Mysql
 </details>
 
 ### 🧮  Application bancaire (Bank Management) 
 <details>
-  <summary><strong>📍 *ESTO Oujda* – Oct 2024 à Déc 2024</strong></summary>
+  <summary><strong>📍 ESTO Oujda – Oct (2024 à Déc 2024)</strong></summary>
   Technologies: Qt Creator, C++  ,sqlite 
   Banking system with secure authentication, account management, and automated processes.
 </details>
 
 ### 🧠 Application de gestion de tâches (TO-DO App)  
 <details>
-  <summary><strong>📍 *Stage chez SupMTI Oujda* – Juil 2024 </strong></summary>
+  <summary><strong>📍 Stage chez SupMTI Oujda – (Juil 2024) </strong></summary>
   Technologies: html, css, javascripy, php,mysql 
- 
 </details>
 
 
@@ -89,14 +88,14 @@
 
 ### 📈 Stage d’initiation chez SUPMTI, Oujda, Maroc (Juil 2024 - 4 semaines)
 
-### 🏨 Stage de fin d'études chez SEOMANIAK, Oujda, Maroc (Avr -Mai 2024 - 8 semaines)  **En cours**
+### 🏨 Stage de fin d'études chez SEOMANIAK, Oujda, Maroc (Avr -Mai 2024 - 8 semaines) - **En cours**
 
 
 <h2 align="center">🎓 Licenses and Certifications</h2>
 
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/verify/X7OAARNNS1TN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course">
-    <img src="https://img.shields.io/badge/Coursera-xUnit%20Testing%20for%20.NET%20Applications-brightgreen?style=for-the-badge" alt="Coursera: xUnit Testing for .NET Applications">
+  <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Udemy : Mastering Advanced Java with Object-Oriented Programming">
   </a>
   <br>  
   <strong>Issued on:</strong> August 2024
@@ -134,7 +133,7 @@
 
 
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📈 Activité GitHub</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&theme=react-dark" alt="Contribution Graph" />
