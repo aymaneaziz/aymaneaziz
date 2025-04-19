@@ -5,8 +5,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="320"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" height="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="310"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" height="310"/>
 </div>
 
 <p align="center">
@@ -106,58 +106,20 @@
 
 <details open>
   <summary><h2>🎓 Education</h2></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/2023--2025-blue?style=for-the-badge" alt="2023-2025"></td>
-        <td>
-          <h3>🎯 Specialized Technician - IT Development</h3>
-          <p>École Supérieure de Technologie, Oujda (ESTO)</p>
-          <p><i>Focus on full-stack web development, software architecture, and database management</i></p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/2022--2023-blue?style=for-the-badge" alt="2022-2023"></td>
-        <td>
-          <h3>🎯 Baccalaureate - Physical Sciences</h3>
-          <p>École Al Manbaee, Oujda, Morocco</p>
-          <p><i>Foundation in analytical thinking and problem-solving</i></p>
-        </td>
-      </tr>
-    </table>
-  </div>
+<div align="left">
+  <h4>🎯 Specialized Technician - IT Development (2023 - 2025)</h4>
+    - École Supérieure de Technologie, Oujda (ESTO)
+  
+  <h4>🎯 Baccalaureate - Physical Sciences (2022 - 2023)</h4>
+    - École Al Manbaee, Oujda, Morocco</p>
+</div>
+
 </details>
 
 <details open>
   <summary><h2>💼 Professional Experience</h2></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Apr--May%202025-blueviolet?style=for-the-badge" alt="Apr-May 2025"></td>
-        <td>
-          <h3>🔹 End of Studies Internship - SEOMANIAK, Oujda (8 weeks)</h3>
-          <p>Currently working on web development projects using modern frameworks</p>
-          <ul>
-            <li>Developing responsive web applications using PHP and JavaScript</li>
-            <li>Implementing SEO best practices and analytics solutions</li>
-            <li>Collaborating with the design team to create user-friendly interfaces</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Jul%202024-blueviolet?style=for-the-badge" alt="Jul 2024"></td>
-        <td>
-          <h3>🔹 Internship - SUPMTI, Oujda (4 weeks)</h3>
-          <p>Developed a task management application using PHP and MySQL</p>
-          <ul>
-            <li>Created a fully functional task tracking system with user authentication</li>
-            <li>Implemented CRUD operations and database optimization</li>
-            <li>Designed intuitive UI/UX for improved user experience</li>
-          </ul>
-        </td>
-      </tr>
-    </table>
-  </div>
+  <h4>🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025 - 8 weeks)<h4>
+  <h4>🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)<h4>
 </details>
 
 <details open>
