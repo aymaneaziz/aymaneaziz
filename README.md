@@ -95,29 +95,31 @@
 
 <p align="center">
   <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/">
-    <img src="https://img.shields.io/badge/Udemy-Mastering%20Advanced%20Java%20with%20OOP-yellow?style=for-the-badge" alt="Udemy: Mastering Advanced Java with Object-Oriented Programming">
+    <img src="https://img.shields.io/badge/UDEMY%20Advanced%20Java%20with%20OOP-yellow?style=for-the-badge" alt="Udemy: Mastering Advanced Java with Object-Oriented Programming">
   </a>
   <br>  
   <strong>Issued on:</strong> January 2025
 </p>
+
 <p align="center">
-  <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa">
-    <img src="https://img.shields.io/badge/LIFE%20Global-Data%20Science%20%26%20Analytics-red?style=for-the-badge" alt="LIFE Global: Data Science & Analytics">
+  <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/">
+    <img src="https://img.shields.io/badge/UDEMY%20Mastery%20Intermediate-orange?style=for-the-badge" alt="Udemy: Java Mastery Intermediate: Methods, Collections, and Beyond">
   </a>
   <br>  
   <strong>Issued on:</strong> November 2024
 </p>
 
 <p align="center">
-  <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/">
-    <img src="https://img.shields.io/badge/Udemy-Java%20Mastery%20Intermediate-orange?style=for-the-badge" alt="Udemy: Java Mastery Intermediate: Methods, Collections, and Beyond">
+  <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa">
+    <img src="https://img.shields.io/badge/HP-LIFE%20Global-Data%20Science%20%26%20Analytics-red?style=for-the-badge" alt="LIFE Global: Data Science & Analytics">
   </a>
   <br>  
   <strong>Issued on:</strong> November 2024
 </p>
+
 <p align="center">
   <a href="https://www.credly.com/badges/40cfbed1-6c70-41fb-adc6-b75ac4f41a24">
-    <img src="https://img.shields.io/badge/Credly-Python%20Essentials%201-blue?style=for-the-badge" alt="Credly: Python Essentials 1">
+    <img src="https://img.shields.io/badge/CISCO%20Essentials%201-blue?style=for-the-badge" alt="Credly: Python Essentials 1">
   </a>
   <br>  
   <strong>Issued on:</strong> November 2024
@@ -125,7 +127,7 @@
 
 <p align="center">
   <a href="https://coursera.org/share/1c3dbfb3bf48f978529d4805ce23c266">
-    <img src="https://img.shields.io/badge/Coursera-Business%20Analysis%20%26%20Process%20Management-00008B?style=for-the-badge" alt="Coursera: Business Analysis & Process Management">
+    <img src="https://img.shields.io/badge/COURSERA%20Analysis%20%26%20Process%20Management-00008B?style=for-the-badge" alt="Coursera: Business Analysis & Process Management">
   </a>
   <br>  
   <strong>Issued on:</strong> October 2024
