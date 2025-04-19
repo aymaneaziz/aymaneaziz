@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;.NET+%26+Angular+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;PHP+%26+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -32,10 +32,10 @@
 
 <p align="center">
   <!-- Langages -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
@@ -64,22 +64,22 @@
 
 ## 📂 My Projects
 
-### 🟢 HOTELPLUS 
+### 🧠 Application de Gestion Hôtelière (HOTELPLUS) 
 <details>
-  <summary><strong>Lead Developer at ESTO Oujda (feverire 2025 - march 2025)</strong></summary>
+  <summary>*ESTO Oujda* – Fév 2025 à Mars 2025 </strong></summary>
   html css javascript ajax php AJAX mvc
 </details>
 
-### 🟣  Bank MANAGMENT
+### 🧮  Application bancaire (Bank Management) 
 <details>
-  <summary><strong>Developer at ESTO Oujda (Novembre 2024 - Decembre 2024)</strong></summary>
+  <summary><strong>📍 *ESTO Oujda* – Oct 2024 à Déc 2024</strong></summary>
   Technologies: Qt Creator, C++  
   Banking system with secure authentication, account management, and automated processes.
 </details>
 
-### 🟤 TODO APP
+### 🧠 Application de gestion de tâches (TO-DO App)  
 <details>
-  <summary><strong>Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda (March 2020 - April 2020)</strong></summary>
+  <summary><strong>📍 *Stage chez SupMTI Oujda* – Juil 2024 </strong></summary>
   Technologies: C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports
   Order management system with client-server architecture and advanced reporting.
 </details>
@@ -87,24 +87,9 @@
 
 <h2 align="center">💼 Stages & Expériences Professionnelles</h2>
 
-### 🧠 Projet de Stage – Application de Gestion Hôtelière (HOTELPLUS)  
-📍 *ESTO Oujda* – Fév 2025 à Mars 2025  
-**Rôle** : Lead Developer  
-**Technos** : HTML, CSS, JS, AJAX, PHP, MVC  
-🔹 Développement d'une plateforme de gestion de réservation, avec gestion des chambres, des clients et des paiements.
+## 📈 Stage d’initiation chez SUPMTI, Oujda, Maroc (Juil 2024 - 4 semaines)
 
-### 🧮 Stage – Application bancaire (Bank Management)  
-📍 *ESTO Oujda* – Nov 2024 à Déc 2024  
-**Rôle** : Développeur C++  
-**Technos** : Qt Creator, C++  
-🔹 Application bancaire avec authentification sécurisée, gestion des comptes, transferts et historiques.
-
-### ✅ Stage – Application de gestion de tâches (TO-DO App)  
-📍 *ISTA Lazaret Oujda* – Mars 2020 à Avril 2020  
-**Rôle** : Analyste Développeur  
-**Technos** : C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports  
-🔹 Logiciel de gestion des tâches et commandes avec rapports générés dynamiquement.
-
+## 🏨 Stage de fin d'études chez SEOMANIAK, Oujda, Maroc (Avr -Mai 2024 - 8 semaines)  **En cours**
 
 
 <h2 align="center">🎓 Licenses and Certifications</h2>
