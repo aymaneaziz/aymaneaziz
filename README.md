@@ -59,7 +59,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=6366F1&point=FFFFFF&hide_border=false" width="98%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=6366F1&point=FFFFFF&hide_border=false" width="100%" alt="Contribution Graph" />
 </div>
 
 
@@ -191,7 +191,7 @@
   </a>
   
   <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa">
-    <img src="https://img.shields.io/badge/HP_LIFE-Data_Science_&_Analytics-0096D6?style=for-the-badge&logo=hp&logoColor=white" alt="Data Science & Analytics">
+    <img src="https://img.shields.io/badge/HP_LIFE-Data_Science_&_Analytics-020AE5?style=for-the-badge&logo=hp&logoColor=white" alt="Data Science & Analytics">
   </a>
   
   <a href="https://www.credly.com/badges/40cfbed1-6c70-41fb-adc6-b75ac4f41a24">
