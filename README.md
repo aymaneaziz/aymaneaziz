@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=radical" alt="Aymane's GitHub Stats" />
 </p>
 
----
+
 
 <h2 align="center">🎓 Education</h2>
 
@@ -26,7 +26,7 @@
 - **Technicien Spécialisé - Développement Informatique** (2023 - 2025)  
   École Supérieure de Technologie, Oujda (ESTO)
 
----
+
 
 <h2 align="center">🛠️ Compétences & Technologies</h2>
 
