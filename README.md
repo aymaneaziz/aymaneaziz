@@ -127,8 +127,8 @@
   <div align="center">
     <table>
       <tr>
-        <td width="300px">
-          <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System" style="border-radius: 10px;">
+        <td width="250px">
+          <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System" style="border-radius: 5px;">
         </td>
         <td>
           <h3>🏨 Hotel Management System (HOTELPLUS)</h3>
@@ -144,8 +144,8 @@
         </td>
       </tr>
       <tr>
-        <td width="300px">
-          <img src="https://github.com/user-attachments/assets/32130603-c893-4e21-870e-e4ba45e9587b" alt="Banking Application" style="border-radius: 10px;">
+        <td width="250px">
+          <img src="https://github.com/user-attachments/assets/32130603-c893-4e21-870e-e4ba45e9587b" alt="Banking Application" style="border-radius: 5px;">
         </td>
         <td>
           <h3>🧮 Banking Application (Bank Management)</h3>
@@ -160,7 +160,7 @@
         </td>
       </tr>
       <tr>
-        <td width="300px">
+        <td width="250px">
           <img src="https://dummyimage.com/300x200/4F46E5/FFFFFF&text=Task+Management" alt="Task Management Application" style="border-radius: 10px;">
         </td>
         <td>
