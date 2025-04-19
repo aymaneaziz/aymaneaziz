@@ -64,32 +64,32 @@
 
 ## 📂 My Projects
 
-# 🧠 Application de Gestion Hôtelière (HOTELPLUS) 
+### 🧠 Application de Gestion Hôtelière (HOTELPLUS) 
 <details>
-  <summary>*ESTO Oujda* – Fév 2025 à Mars 2025 </strong></summary>
-  html css javascript ajax php AJAX mvc
+  <summary><strong> 📍 ESTO Oujda – Fév 2025 à Mars 2025 </strong></summary>
+  html css javascript ajax php AJAX mvc Mysql
 </details>
 
-# 🧮  Application bancaire (Bank Management) 
+### 🧮  Application bancaire (Bank Management) 
 <details>
   <summary><strong>📍 *ESTO Oujda* – Oct 2024 à Déc 2024</strong></summary>
-  Technologies: Qt Creator, C++  
+  Technologies: Qt Creator, C++  ,sqlite 
   Banking system with secure authentication, account management, and automated processes.
 </details>
 
-# 🧠 Application de gestion de tâches (TO-DO App)  
+### 🧠 Application de gestion de tâches (TO-DO App)  
 <details>
   <summary><strong>📍 *Stage chez SupMTI Oujda* – Juil 2024 </strong></summary>
-  Technologies: C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports
-  Order management system with client-server architecture and advanced reporting.
+  Technologies: html, css, javascripy, php,mysql 
+ 
 </details>
 
 
 <h2 align="center">💼 Stages & Expériences Professionnelles</h2>
 
-## 📈 Stage d’initiation chez SUPMTI, Oujda, Maroc (Juil 2024 - 4 semaines)
+### 📈 Stage d’initiation chez SUPMTI, Oujda, Maroc (Juil 2024 - 4 semaines)
 
-## 🏨 Stage de fin d'études chez SEOMANIAK, Oujda, Maroc (Avr -Mai 2024 - 8 semaines)  **En cours**
+### 🏨 Stage de fin d'études chez SEOMANIAK, Oujda, Maroc (Avr -Mai 2024 - 8 semaines)  **En cours**
 
 
 <h2 align="center">🎓 Licenses and Certifications</h2>
