@@ -64,7 +64,7 @@
 
 ## 📂 My Projects
 
-### 🧠 Application de Gestion Hôtelière (HOTELPLUS) 
+### 🏨 Application de Gestion Hôtelière (HOTELPLUS) 
 <details>
   <summary><strong> 📍 ESTO Oujda – (Fév 2025 à Mars 2025)</strong></summary>
        Technologies: html css javascript ajax php AJAX mvc Mysql
@@ -77,7 +77,7 @@
   Banking system with secure authentication, account management, and automated processes.
 </details>
 
-### 🧠 Application de gestion de tâches (TO-DO App)  
+### 📑 Application de gestion de tâches (TO-DO App)  
 <details>
   <summary><strong>📍 Stage chez SupMTI Oujda – (Juil 2024) </strong></summary>
   Technologies: html, css, javascripy, php,mysql 
@@ -88,57 +88,56 @@
 
 ### 📈 Stage d’initiation chez SUPMTI, Oujda, Maroc (Juil 2024 - 4 semaines)
 
-### 🏨 Stage de fin d'études chez SEOMANIAK, Oujda, Maroc (Avr -Mai 2025 - 8 semaines) - **En cours**
+### 🖥️ Stage de fin d'études chez SEOMANIAK, Oujda, Maroc (Avr -Mai 2025 - 8 semaines) - **En cours**
 
 
 <h2 align="center">🎓 Licenses and Certifications</h2>
 
 
-
   <!-- Udemy - Advanced Java -->
-  <div align="center">
+  <p align="center">
     <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/" target="_blank">
       <img src="https://img.shields.io/badge/Udemy%20-%20Advanced%20Java%20with%20OOP-yellow?style=for-the-badge&logo=Udemy" alt="Udemy: Advanced Java with OOP">
     </a>
     <br>
     <strong>Issued:</strong> January 2025
-  </div>
+  </p>
 
   <!-- Udemy - Java Mastery Intermediate -->
-  <div align="center">
+  <p align="center">
     <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/" target="_blank">
       <img src="https://img.shields.io/badge/Udemy%20-%20Java%20Mastery%20Intermediate-orange?style=for-the-badge&logo=Udemy" alt="Udemy: Java Mastery Intermediate">
     </a>
     <br>
     <strong>Issued:</strong> November 2024
-  </div>
+  </p>
 
   <!-- HP LIFE - Data Science -->
-<div align="center">
+<p align="center">
     <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa" target="_blank">
       <img src="https://img.shields.io/badge/HP%20LIFE%20-%20Data%20Science%20%26%20Analytics-red?style=for-the-badge&logo=hp" alt="HP LIFE: Data Science & Analytics">
     </a>
     <br>
     <strong>Issued:</strong> November 2024
-  </div>
+  </p>
 
   <!-- Cisco - Python Essentials 1 -->
-  <div align="center">
+  <p align="center">
     <a href="https://www.credly.com/badges/40cfbed1-6c70-41fb-adc6-b75ac4f41a24" target="_blank">
       <img src="https://img.shields.io/badge/Cisco%20-%20Python%20Essentials%201-007ACC?style=for-the-badge&logo=python" alt="Cisco: Python Essentials 1">
     </a>
     <br>
     <strong>Issued:</strong> November 2024
-  </div>
+  </p>
 
   <!-- Coursera - Business Analysis -->
-  <div align="center">
+  <p align="center">
     <a href="https://coursera.org/share/1c3dbfb3bf48f978529d4805ce23c266" target="_blank">
       <img src="https://img.shields.io/badge/Coursera%20-%20Business%20Analysis%20%26%20Process%20Management-00008B?style=for-the-badge&logo=Coursera" alt="Coursera: Business Analysis & Process Management">
     </a>
     <br>
     <strong>Issued:</strong> October 2024
-  </div>
+  </p>
 
 
 
