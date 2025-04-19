@@ -144,7 +144,7 @@
         </td>
       </tr>
       <tr>
-        <td width="250px">
+        <td width="250px" align="center">
           <img src="https://github.com/user-attachments/assets/dc791295-bde0-4a23-8a46-b18e28748642" alt="Banking Application" style="border-radius: 10px;">
         </td>
         <td>
@@ -178,7 +178,10 @@
         
    </table>
   </div>
-</details>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 Certifications & Achievements
 
