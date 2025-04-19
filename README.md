@@ -60,7 +60,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=F11F94&point=FFFFFF&hide_border=false" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=6366F1&point=FFFFFF&hide_border=false" width="100%" alt="Contribution Graph" />
 </div>
 
 
@@ -161,7 +161,7 @@
       </tr>
       <tr>
         <td width="250px">
-          <img src="https://github.com/user-attachments/assets/99d378fb-d858-4e45-b87e-26a510c5746e" alt="Task Management Application" style="border-radius: 10px;">
+          <img src="https://github.com/user-attachments/assets/99d378fb-d858-4e45-b87e-26a510c5746e" alt="Task Management Application"  width="80%" style="border-radius: 10px;">
         </td>
         <td>
           <h3>📑 Task Management Application (TO-DO App)</h3>
