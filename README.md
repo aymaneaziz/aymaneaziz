@@ -5,8 +5,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&margin-w=4" alt="Most Used Languages" height="250"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&margin-w=4&hide_border=true" alt="Most Used Languages" height="250"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4&hide_border=true" alt="GitHub Trophies" height="250"/>
 </div>
 
 <p align="center">
@@ -161,7 +161,7 @@
       </tr>
       <tr>
         <td width="250px">
-          <img src="https://github.com/user-attachments/assets/1b63adc9-496d-4108-96f6-d6b6c5f2e744" alt="Task Management Application" style="border-radius: 10px;">
+          <img src="https://github.com/user-attachments/assets/99d378fb-d858-4e45-b87e-26a510c5746e" alt="Task Management Application" style="border-radius: 10px;">
         </td>
         <td>
           <h3>📑 Task Management Application (TO-DO App)</h3>
