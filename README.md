@@ -104,8 +104,8 @@
 
 </div>
 
-<details open>
-  <summary><h2>🎓 Education</h2></summary>
+
+ ## 🎓 Education
 <div align="left">
   <h4>🎯 Specialized Technician - IT Development (2023 - 2025)</h4>
     - École Supérieure de Technologie, Oujda (ESTO)
@@ -114,16 +114,16 @@
     - École Al Manbaee, Oujda, Morocco</p>
 </div>
 
-</details>
 
-<details open>
-  <summary><h2>💼 Professional Experience</h2></summary>
+
+
+## 💼 Professional Experience
   <h4>🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025 - 8 weeks)<h4>
   <h4>🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)<h4>
-</details>
 
-<details open>
-  <summary><h2>📂 Projects</h2></summary>
+
+
+## 📂 Projects
   <div align="center">
     <table>
       <tr>
@@ -175,23 +175,8 @@
           </div>
         </td>
       </tr>
-            <tr>
-        <td width="250px">
-          <img src="https://dummyimage.com/300x200/4F46E5/FFFFFF&text=Task+Management" alt="Task Management Application" style="border-radius: 10px;">
-        </td>
-        <td>
-          <h3>📑 Task Management Application (TO-DO App)</h3>
-          <p><b>SUPMTI Internship | Jul 2024</b></p>
-          <p>Development of an application for managing tasks, projects, and progress tracking.</p>
-          <p><b>Technologies:</b> HTML, CSS, JavaScript, PHP, MySQL</p>
-          <div>
-            <img src="https://img.shields.io/badge/-%20PHP-777BB4?style=flat-square" alt="PHP">
-            <img src="https://img.shields.io/badge/-%20JavaScript-F7DF1E?style=flat-square" alt="JavaScript">
-            <img src="https://img.shields.io/badge/-%20MySQL-4479A1?style=flat-square" alt="MySQL">
-          </div>
-        </td>
-      </tr>
-    </table>
+        
+   </table>
   </div>
 </details>
 
@@ -236,7 +221,12 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/aymaneaziz">
+    <img src="https://img.shields.io/github/followers/aymaneaziz?style=for-the-badge&logo=github&logoColor=white&labelColor=222222&color=6366F1" alt="GitHub followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 
 
@@ -244,12 +234,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+growing.;Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
 </h3>
 
-<p align="center">
-  <a href="https://github.com/aymaneaziz">
-    <img src="https://img.shields.io/github/followers/aymaneaziz?style=for-the-badge&logo=github&logoColor=white&labelColor=222222&color=6366F1" alt="GitHub followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Aymane%20AZIZ-F43F5E?style=for-the-badge" alt="Made with love">
 </p>
