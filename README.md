@@ -4,16 +4,9 @@
   </a>
 </h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=algolia&margin-w=4" alt="Most Used Languages" height="250"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer;Full-Stack+Developer;Tech+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
-
-
 
 <div align="center">
   <a href="mailto:aymenaziz1234g@gmail.com">
@@ -25,6 +18,12 @@
   <a href="tel:+212766633323">
     <img src="https://img.shields.io/badge/Phone-+212766633323-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
   </a>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=algolia&margin-w=4" alt="Most Used Languages" height="250"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
 </div>
 
 
@@ -188,7 +187,7 @@
   </a>
   
   <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/">
-    <img src="https://img.shields.io/badge/Udemy-Java_Mastery_Intermediate-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Java Mastery Intermediate">
+    <img src="https://img.shields.io/badge/Udemy-Java_Mastery_Intermediate-F07F2C?style=for-the-badge&logo=udemy&logoColor=white" alt="Java Mastery Intermediate">
   </a>
   
   <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa">
