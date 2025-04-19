@@ -129,6 +129,7 @@
   ![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=atlassian&logoColor=white)
   ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
   ![MVC](https://img.shields.io/badge/MVC-888888?style=for-the-badge&logo=mvc&logoColor=white)
+  ![Merise](https://img.shields.io/badge/Merise-EC6C4B?style=for-the-badge&logo=merise&logoColor=white)
   
 </div>
 
