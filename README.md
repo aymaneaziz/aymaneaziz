@@ -128,7 +128,7 @@
     <table align="center">
       <tr>
         <td width="250px">
-          <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System" style="border-radius: 10px;">
+          <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System" ">
         </td>
         <td>
           <h3>🏨 Hotel Management System (HOTELPLUS)</h3>
@@ -144,8 +144,8 @@
         </td>
       </tr>
       <tr>
-        <td width="250px" align="center">
-          <img src="https://github.com/user-attachments/assets/dc791295-bde0-4a23-8a46-b18e28748642" alt="Banking Application" style="border-radius: 10px;">
+        <td  align="center" width="250px">
+          <img src="https://github.com/user-attachments/assets/f75aaf43-3ecd-4375-b03f-51619db26d0d" alt="Banking Application"  width="180px >
         </td>
         <td>
           <h3>🧮 Banking Application (Bank Management)</h3>
