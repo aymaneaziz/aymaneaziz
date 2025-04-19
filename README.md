@@ -58,7 +58,8 @@
   </table>
 </div>
 <!-----------------------------------------  GitHub Stats & Activity----------------------------------------------->
-## 📊 GitHub Stats & Activity
+
+<h2>📊 GitHub Stats & Activity</h2> 
 
 <div align="center"  >
   <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
