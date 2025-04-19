@@ -54,14 +54,14 @@
 </div>
 
 ## 📊 GitHub Stats & Activity
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=radical" height="170px" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneaziz&theme=radical" height="170px" alt="GitHub Streak" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=6366F1&point=FFFFFF&hide_border=true" width="98%" alt="Contribution Graph" />
-</div>
+</p>
 
 
 ## 💻 Tech Stack
