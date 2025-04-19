@@ -98,39 +98,8 @@
     <img src="https://img.shields.io/badge/Udemy-Learn%20Mastering%20Advanced%20Java%20with%20Object-Oriented%20Programming-yellow?style=for-the-badge" alt="Udemy : Mastering Advanced Java with Object-Oriented Programming">
   </a>
   <br>  
-  <strong>Issued on:</strong> August 2024
+  <strong>Issued on:</strong> January 2025
 </p>
-
-<p align="center">
-  <a href="https://www.udemy.com/certificate/UC-5a1a2965-f342-4f7c-9820-d3da70dd5094/">
-    <img src="https://img.shields.io/badge/Udemy-Learn%20.Net%20C%23%2C%20MySQL%20and%20JavaScript%20for%20Web%20Developers-blue?style=for-the-badge" alt="Udemy: Learn .Net C#, MySQL and JavaScript for Web Developers">
-  </a>
-  <br>
-  <strong>Issued on:</strong> July 2024
-</p>
-
-<p align="center">
-  <a href="https://www.freecodecamp.org/certification/fcccfba1758-e307-448f-9d9e-e2eb39919718/back-end-development-and-apis">
-    <img src="https://img.shields.io/badge/freeCodeCamp-Back%20End%20Development%20and%20APIs-orange?style=for-the-badge" alt="freeCodeCamp: Back End Development and APIs">
-  </a>
-  <br>
-  <strong>Issued on:</strong> June 2024
-</p>
-
-<p align="center">
-  <a href="https://www.freecodecamp.org/certification/fcccfba1758-e307-448f-9d9e-e2eb39919718/foundational-c-sharp-with-microsoft">
-    <img src="https://img.shields.io/badge/Microsoft-Foundational%20C%23%20with%20Microsoft-0078D4?style=for-the-badge" alt="Microsoft: Foundational C# with Microsoft">
-  </a>
-  <br>
-  <strong>Issued on:</strong> March 2024
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NASA-Galactic%20Problem%20Solver-darkblue?style=for-the-badge" alt="NASA: Galactic Problem Solver">
-  <br>
-  <strong>Issued on:</strong> October 2023
-</p>
-
 
 
 <h2 align="center">📈 Activité GitHub</h2>
