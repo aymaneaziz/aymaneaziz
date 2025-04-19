@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&margin-w=4" alt="Most Used Languages" height="255"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&margin-w=4" alt="Most Used Languages" height="250"/>
   <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
 </div>
 
@@ -145,7 +145,7 @@
       </tr>
       <tr>
         <td width="250px">
-          <img src="https://github.com/user-attachments/assets/32130603-c893-4e21-870e-e4ba45e9587b" alt="Banking Application" style="border-radius: 5px;">
+          <img src="https://github.com/user-attachments/assets/dc791295-bde0-4a23-8a46-b18e28748642" alt="Banking Application" style="border-radius: 5px;">
         </td>
         <td>
           <h3>🧮 Banking Application (Bank Management)</h3>
@@ -160,6 +160,22 @@
         </td>
       </tr>
       <tr>
+        <td width="250px">
+          <img src="https://github.com/user-attachments/assets/1b63adc9-496d-4108-96f6-d6b6c5f2e744" alt="Task Management Application" style="border-radius: 10px;">
+        </td>
+        <td>
+          <h3>📑 Task Management Application (TO-DO App)</h3>
+          <p><b>SUPMTI Internship | Jul 2024</b></p>
+          <p>Development of an application for managing tasks, projects, and progress tracking.</p>
+          <p><b>Technologies:</b> HTML, CSS, JavaScript, PHP, MySQL</p>
+          <div>
+            <img src="https://img.shields.io/badge/-%20PHP-777BB4?style=flat-square" alt="PHP">
+            <img src="https://img.shields.io/badge/-%20JavaScript-F7DF1E?style=flat-square" alt="JavaScript">
+            <img src="https://img.shields.io/badge/-%20MySQL-4479A1?style=flat-square" alt="MySQL">
+          </div>
+        </td>
+      </tr>
+            <tr>
         <td width="250px">
           <img src="https://dummyimage.com/300x200/4F46E5/FFFFFF&text=Task+Management" alt="Task Management Application" style="border-radius: 10px;">
         </td>
