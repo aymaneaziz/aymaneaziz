@@ -47,11 +47,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- Langages de Programmation -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+ 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <!-- Bases de Données -->
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -61,7 +60,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/Blazor-7A0D3C?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
+  <img src="https://img.shields.io/youtube/comments/:videoId">
   <img src="https://img.shields.io/badge/Entity%20Framework-86B8AB?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework">
   <img src="https://img.shields.io/badge/Windows%20Forms-5E5E5E?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
@@ -170,16 +169,16 @@ Here are some ideas to get you started:
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadimohammed&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kadimohammed&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadimohammed&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneaziz&theme=radical" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">
