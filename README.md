@@ -54,11 +54,11 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&bg_color=0D1117" height="170px" width="50%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneaziz&theme=tokyonight&hide_border=false&background=0D1117" height="170px" width="50%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&bg_color=0D1117" height="180px" width="40%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneaziz&theme=tokyonight&hide_border=false&background=0D1117" height="180px" width="40%" alt="GitHub Streak" />
 </div>
 
-
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=6366F1&point=FFFFFF&hide_border=false" width="100%" alt="Contribution Graph" />
 </div>
