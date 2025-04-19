@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&margin-w=4" alt="Most Used Languages" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&margin-w=4" alt="Most Used Languages" height="255"/>
   <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
 </div>
 
@@ -128,7 +128,7 @@
     <table>
       <tr>
         <td width="300px">
-          <img src="https://dummyimage.com/300x200/4F46E5/FFFFFF&text=Hotel+Management" alt="Hotel Management System" style="border-radius: 10px;">
+          <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System" style="border-radius: 10px;">
         </td>
         <td>
           <h3>🏨 Hotel Management System (HOTELPLUS)</h3>
