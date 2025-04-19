@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Aymane+AZIZ;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hello+World!+👋;I'm+Aymane+AZIZ;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -89,8 +89,8 @@ I'm a passionate software developer from Morocco with a strong focus on creating
 ## 💼 Professional Experience
 
 <div align="left">
-  <h2>🔹 End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025)</h2>
-  <h2>🔹 Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)</h2>
+  ###🔹 End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025)
+  ###🔹 Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)
 </div>
 
 ## 📂 Projects
