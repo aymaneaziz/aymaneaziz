@@ -70,9 +70,6 @@
 
 
 
-
-## 💻 Tech Stack
-
 ## 🛠️ Skills & Technologies
 
 <div align="center">
@@ -228,53 +225,27 @@
 ## 🏆 Certifications & Achievements
 
 <div align="center">
-  <div>
-    <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/">
-      <img src="https://img.shields.io/badge/Udemy-Advanced_Java_with_OOP-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Advanced Java with OOP">
-    </a>
-  </div>
-  <div>
-    <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/">
-      <img src="https://img.shields.io/badge/Udemy-Java_Mastery_Intermediate-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Java Mastery Intermediate">
-    </a>
-  </div>
-  <div>
-    <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa">
-      <img src="https://img.shields.io/badge/HP_LIFE-Data_Science_&_Analytics-0096D6?style=for-the-badge&logo=hp&logoColor=white" alt="Data Science & Analytics">
-    </a>
-  </div>
-  <div>
-    <a href="https://www.credly.com/badges/40cfbed1-6c70-41fb-adc6-b75ac4f41a24">
-      <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Python Essentials 1">
-    </a>
-  </div>
-  <div>
-    <a href="https://coursera.org/share/1c3dbfb3bf48f978529d4805ce23c266">
-      <img src="https://img.shields.io/badge/Coursera-Business_Analysis_&_Process_Management-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Business Analysis">
-    </a>
-  </div>
+  <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/">
+    <img src="https://img.shields.io/badge/Udemy-Advanced_Java_with_OOP-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Advanced Java with OOP">
+  </a>
   
-  <div>
-    <h3>Development Activity</h3>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aymaneaziz&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-  </div>
+  <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/">
+    <img src="https://img.shields.io/badge/Udemy-Java_Mastery_Intermediate-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Java Mastery Intermediate">
+  </a>
+  
+  <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa">
+    <img src="https://img.shields.io/badge/HP_LIFE-Data_Science_&_Analytics-0096D6?style=for-the-badge&logo=hp&logoColor=white" alt="Data Science & Analytics">
+  </a>
+  
+  <a href="https://www.credly.com/badges/40cfbed1-6c70-41fb-adc6-b75ac4f41a24">
+    <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Python Essentials 1">
+  </a>
+  
+  <a href="https://coursera.org/share/1c3dbfb3bf48f978529d4805ce23c266">
+    <img src="https://img.shields.io/badge/Coursera-Business_Analysis_&_Process_Management-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Business Analysis">
+  </a>
 </div>
 
-## 📈 Coding Metrics
-
-```text
-💻 Weekly Development Breakdown
-PHP              ██████████████░░░░░░   65.7%
-JavaScript       ████░░░░░░░░░░░░░░░░   15.3%
-Java             ███░░░░░░░░░░░░░░░░░   12.5%
-CSS              ██░░░░░░░░░░░░░░░░░░    5.2%
-Other            ░░░░░░░░░░░░░░░░░░░░    1.3%
-
-🔥 Editor Usage
-PhpStorm         ███████████████░░░░░   70.2%
-VS Code          █████░░░░░░░░░░░░░░░   20.3%
-IntelliJ IDEA    ██░░░░░░░░░░░░░░░░░░    9.5%
-```
 
 ## 🌐 Connect With Me
 
