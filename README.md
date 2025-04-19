@@ -62,6 +62,11 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=6366F1&point=FFFFFF&hide_border=true" width="98%" alt="Contribution Graph" />
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&theme=react-dark" alt="Contribution Graph" />
+</div>
+
+
 
 
 ## 💻 Tech Stack
