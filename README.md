@@ -28,9 +28,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Phone-+212766633323-green?style=for-the-badge" alt="Phone">
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kadimohammed&show_icons=true&theme=radical" alt="Mohammed's GitHub Stats" />
-</p> -->
+</p> 
 
 <h2 align="center">🎓 Education</h2>
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   Ecole al MANBAEE, Oujda, Morocco
   
 - **Techencien specialiseé - Computer Science** (2023 - 2025)
-  Esto ,oujda
+Esto ,oujda
 
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
