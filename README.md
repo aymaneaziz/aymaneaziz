@@ -80,17 +80,17 @@ I'm a passionate software developer from Morocco with a strong focus on creating
 
 <div align="left">
   <h4>🎯 Specialized Technician - IT Development (2023 - 2025)</h4>
-  <p>École Supérieure de Technologie, Oujda (ESTO)</p>
+    - École Supérieure de Technologie, Oujda (ESTO)
   
   <h4>🎯 Baccalaureate - Physical Sciences (2022 - 2023)</h4>
-  <p>École Al Manbaee, Oujda, Morocco</p>
+    - École Al Manbaee, Oujda, Morocco</p>
 </div>
 
 ## 💼 Professional Experience
 
 
-  ### 🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025)
-  ### 🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)
+  #### 🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025)
+  #### 🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)
 
 
 ## 📂 Projects
