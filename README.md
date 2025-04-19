@@ -1,13 +1,17 @@
+
+
 <h1 align="center">
   <a href="https://github.com/aymaneaziz">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+World!+%F0%9F%91%8B;I'm+Aymane+AZIZ;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer;Full-Stack+Developer;Tech+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
+<!-----------------------------------------  contact----------------------------------------------->
 <div align="center">
   <a href="mailto:aymenaziz1234g@gmail.com">
     <img src="https://img.shields.io/badge/Email-aymenaziz1234g%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -22,12 +26,13 @@
 
 <br>
 
+<!----------------------------------------- Trophies----------------------------------------------->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=algolia&margin-w=4" alt="Most Used Languages" height="250"/>
   <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
 </div>
 
-
+<!-----------------------------------------  About Me----------------------------------------------->
 
   <h2> 🚀 About Me </h2>
   <div align="center" style="text-align:justify;">
@@ -64,7 +69,7 @@
 </div>
 
 
-
+<!-----------------------------------------  Skills & Technologies------------------------------------------------>
 ## 🛠️ Skills & Technologies
 
 <div align="center">
@@ -104,6 +109,7 @@
 
 </div>
 
+<!----------------------------------------- Education------------------------------------------------>
 
  ## 🎓 Education
 <div align="left">
@@ -114,8 +120,7 @@
     - École Al Manbaee, Oujda, Morocco</p>
 </div>
 
-
-
+<!----------------------------------------- Professional Experience------------------------------------------------>
 
 ## 💼 Professional Experience
   <h4>🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025 - 8 weeks)<h4>
@@ -131,6 +136,7 @@
           <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System" ">
         </td>
         <td>
+          <!----------------------------------------- 1----------------------------------------------->
           <h3>🏨 Hotel Management System (HOTELPLUS)</h3>
           <p><b>ESTO Oujda | Feb - Mar 2025</b></p>
           <p>Development of dual applications (web and desktop) for managing hotel reservations, rooms, services, and more.</p>
@@ -148,6 +154,7 @@
           <img src="https://github.com/user-attachments/assets/7ab1a8e6-cec7-4b73-b243-78081fff0287" alt="Banking Application"  width="180px" >
         </td>
         <td>
+          <!----------------------------------------- 2------------------------------------------------>
           <h3>🧮 Banking Application (Bank Management)</h3>
           <p><b>ESTO Oujda | Oct - Dec 2024</b></p>
           <p>Creation of a secure banking system with account management, transaction processing, and authentication features.</p>
@@ -164,6 +171,7 @@
               <img src="https://github.com/user-attachments/assets/f217de72-d5e4-47a4-b1a7-2b7bb8705391" alt="Task Management Application"  width="180px">
             </td>
            <td>
+             <!----------------------------------------- 3------------------------------------------------>
           <h3>📑 Task Management Application (TO-DO App)</h3>
           <p><b>SUPMTI Internship | Jul 2024</b></p>
           <p>Development of an application for managing tasks, projects, and progress tracking.</p>
@@ -179,7 +187,7 @@
    </table>
   </div>
 
-
+<!----------------------------------------- Certifications & Achievements------------------------------------------------>
 ## 🏆 Certifications & Achievements
 
 <div align="center">
@@ -205,6 +213,7 @@
 </div>
 
 
+<!----------------------------------------- Connect With Me------------------------------------------------>
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -217,7 +226,7 @@
   <a href="https://github.com/aymaneaziz">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/aymaneaziz">
+  <a href="https://www.instagram.com/ayman_az.17">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
