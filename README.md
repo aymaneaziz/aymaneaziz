@@ -145,7 +145,7 @@
       </tr>
       <tr>
         <td width="300px">
-          <img src="https://dummyimage.com/300x200/4F46E5/FFFFFF&text=Banking+App" alt="Banking Application" style="border-radius: 10px;">
+          <img src="https://github.com/user-attachments/assets/8c675074-16e2-4b02-b1b4-9a348d492d1a" alt="Banking Application" style="border-radius: 10px;">
         </td>
         <td>
           <h3>🧮 Banking Application (Bank Management)</h3>
