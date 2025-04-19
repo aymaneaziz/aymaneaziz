@@ -106,9 +106,9 @@ Here are some ideas to get you started:
   Online vehicle sales platform with listing, real-time messaging, and responsive design.
 </details>
 
-### 🟣 Black Bank
+### 🟣  Bank MANAGMENT
 <details>
-  <summary><strong>Developer at EHEI Oujda (February 2021 - May 2021)</strong></summary>
+  <summary><strong>Developer at ESTO Oujda (Novembre 2024 - Decembre 2024)</strong></summary>
   Technologies: Qt Creator, C++  
   Banking system with secure authentication, account management, and automated processes.
 </details>
