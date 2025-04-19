@@ -5,8 +5,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&margin-w=4&hide_border=true" alt="Most Used Languages" height="250"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4&hide_border=true" alt="GitHub Trophies" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&margin-w=4" alt="Most Used Languages" height="250"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=tokyonight&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
 </div>
 
 <p align="center">
@@ -54,8 +54,8 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneaziz&theme=tokyonight&hide_border=true&background=0D1117" height="170px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&bg_color=0D1117" height="170px" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneaziz&theme=tokyonight&hide_border=false&background=0D1117" height="170px" alt="GitHub Streak" />
 </div>
 
 
