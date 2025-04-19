@@ -62,7 +62,6 @@
 </p>
 
 
-
 ## 📂 My Projects
 
 ### 🟢 HOTELPLUS 
@@ -86,6 +85,25 @@
 </details>
 
 
+<h2 align="center">💼 Stages & Expériences Professionnelles</h2>
+
+### 🧠 Projet de Stage – Application de Gestion Hôtelière (HOTELPLUS)  
+📍 *ESTO Oujda* – Fév 2025 à Mars 2025  
+**Rôle** : Lead Developer  
+**Technos** : HTML, CSS, JS, AJAX, PHP, MVC  
+🔹 Développement d'une plateforme de gestion de réservation, avec gestion des chambres, des clients et des paiements.
+
+### 🧮 Stage – Application bancaire (Bank Management)  
+📍 *ESTO Oujda* – Nov 2024 à Déc 2024  
+**Rôle** : Développeur C++  
+**Technos** : Qt Creator, C++  
+🔹 Application bancaire avec authentification sécurisée, gestion des comptes, transferts et historiques.
+
+### ✅ Stage – Application de gestion de tâches (TO-DO App)  
+📍 *ISTA Lazaret Oujda* – Mars 2020 à Avril 2020  
+**Rôle** : Analyste Développeur  
+**Technos** : C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports  
+🔹 Logiciel de gestion des tâches et commandes avec rapports générés dynamiquement.
 
 
 
