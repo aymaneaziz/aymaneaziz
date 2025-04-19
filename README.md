@@ -125,7 +125,7 @@
 
 ## 📂 Projects
   <div align="center">
-    <table>
+    <table align="center">
       <tr>
         <td width="250px">
           <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System" style="border-radius: 10px;">
@@ -160,8 +160,8 @@
         </td>
       </tr>
       <tr>
-        <td width="250px">
-          <img src="https://github.com/user-attachments/assets/99d378fb-d858-4e45-b87e-26a510c5746e" alt="Task Management Application"  height="150px" style="border-radius: 10px;">
+        <td align="center" width="250px">
+          <img src="https://github.com/user-attachments/assets/dc791295-bde0-4a23-8a46-b18e28748642" alt="Banking Application" width="250px">
         </td>
         <td>
           <h3>📑 Task Management Application (TO-DO App)</h3>
@@ -179,10 +179,9 @@
    </table>
   </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
+<p align="center">
+  <img src="https://github.com/aymaneaziz/aymaneaziz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 ## 🏆 Certifications & Achievements
 
 <div align="center">
