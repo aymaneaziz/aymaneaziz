@@ -207,19 +207,19 @@
       <img src="https://img.shields.io/badge/Udemy-Advanced_Java_with_OOP-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Advanced Java with OOP">
     </a>
     
-    <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/">
+  <a href="https://www.udemy.com/certificate/UC-f0248104-319d-4c2d-89ca-be8f20a0b181/">
       <img src="https://img.shields.io/badge/Udemy-Java_Mastery_Intermediate-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Java Mastery Intermediate">
     </a>
     
-    <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa">
+  <a href="https://www.life-global.org/certificate/ce493ffb-fcbc-40f3-a484-407348c2f3aa">
       <img src="https://img.shields.io/badge/HP_LIFE-Data_Science_&_Analytics-0096D6?style=for-the-badge&logo=hp&logoColor=white" alt="Data Science & Analytics">
     </a>
     
-    <a href="https://www.credly.com/badges/40cfbed1-6c70-41fb-adc6-b75ac4f41a24">
+  <a href="https://www.credly.com/badges/40cfbed1-6c70-41fb-adc6-b75ac4f41a24">
       <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Python Essentials 1">
     </a>
     
-    <a href="https://coursera.org/share/1c3dbfb3bf48f978529d4805ce23c266">
+   <a href="https://coursera.org/share/1c3dbfb3bf48f978529d4805ce23c266">
       <img src="https://img.shields.io/badge/Coursera-Business_Analysis_&_Process_Management-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Business Analysis">
     </a>
   </div>
