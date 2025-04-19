@@ -6,19 +6,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="320"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" height="320"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" height="320"/>
 </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer;Full-Stack+Developer;Tech+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/aymaneaziz">
-    <img src="https://img.shields.io/github/followers/aymaneaziz?style=for-the-badge&logo=github&logoColor=white&labelColor=222222&color=6366F1" alt="GitHub followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+
 
 <div align="center">
   <a href="mailto:aymenaziz1234g@gmail.com">
@@ -266,6 +261,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/aymaneaziz">
+    <img src="https://img.shields.io/github/followers/aymaneaziz?style=for-the-badge&logo=github&logoColor=white&labelColor=222222&color=6366F1" alt="GitHub followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" alt="Snake animation" />
