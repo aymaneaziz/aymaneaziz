@@ -151,7 +151,7 @@
       </tr>
       <tr>
         <td  align="center" width="250px">
-          <img src="https://github.com/user-attachments/assets/7ab1a8e6-cec7-4b73-b243-78081fff0287" alt="Banking Application"  width="180px" >
+          <img src="https://github.com/user-attachments/assets/7ab1a8e6-cec7-4b73-b243-78081fff0287" alt="Banking Application"  >
         </td>
         <td>
           <!----------------------------------------- 2------------------------------------------------>
