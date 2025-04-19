@@ -12,9 +12,8 @@
   <img src="https://img.shields.io/badge/Phone-+212766633323-green?style=for-the-badge" alt="Phone">
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=radical" alt="Aymane's GitHub Stats" />
 </p>
 
 
@@ -68,22 +67,22 @@
 ## 📂 My Projects
 
 ### 🏨 Application de Gestion Hôtelière (HOTELPLUS) 
-<details>
-  <summary><strong>  ESTO Oujda – (Fév 2025 à Mars 2025)</strong></summary>
-       Technologies: html css javascript ajax php AJAX mvc Mysql
-</details>
+<details> 
+  <summary><strong>ESTO Oujda – (Fév 2025 à Mars 2025)</strong></summary> 
+  Développement de deux applications (web et desktop) pour la gestion des réservations, des chambres, des services, etc. 
+  **Technologies :**Arch MVC, HTML, CSS, JavaScript, AJAX, PHP, MySQL, Java, JavaFX </details>
 
 ### 🧮  Application bancaire (Bank Management) 
 <details>
-  <summary><strong> ESTO Oujda – (Oct 2024 à Déc 2024)</strong></summary>
-  Technologies: Qt Creator, C++  ,sqlite 
-  Banking system with secure authentication, account management, and automated processes.
-</details>
+  <summary><strong>ESTO Oujda – (Oct 2024 à Déc 2024)</strong></summary> 
+  Création d'un système bancaire sécurisé avec gestion des comptes, des transactions et de l'authentification. 
+  **Technologies :** Qt Creator, C++, SQLite </details>
 
 ### 📑 Application de gestion de tâches (TO-DO App)  
-<details>
-  <summary><strong> Stage chez SupMTI Oujda – (Juil 2024) </strong></summary>
-  Technologies: html, css, javascripy, php,mysql 
+<details> 
+  <summary><strong>Stage chez SupMTI Oujda – (Juil 2024)</strong></summary>
+  Développement d'une application permettant de gérer des tâches, des projets et le suivi des progrès. 
+  **Technologies :** HTML, CSS, JavaScript, PHP, MySQL 
 </details>
 
 
@@ -152,9 +151,11 @@
 
 <h2 align="center">📈  Contribution Graph</h2>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=radical" alt="Aymane's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&theme=react-dark" alt="Contribution Graph" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=blueviolet&style=flat-square" alt="Profile Views" />
