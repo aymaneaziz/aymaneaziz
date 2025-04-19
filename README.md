@@ -102,7 +102,7 @@
       <img src="https://img.shields.io/badge/Udemy%20-%20Advanced%20Java%20with%20OOP-yellow?style=for-the-badge&logo=Udemy" alt="Udemy: Advanced Java with OOP">
     </a>
     <br>
-    <strong>Issued:</strong> January 2025
+    <strong>Issued :</strong> January 2025
   </p>
 
   <!-- Udemy - Java Mastery Intermediate -->
@@ -111,7 +111,7 @@
       <img src="https://img.shields.io/badge/Udemy%20-%20Java%20Mastery%20Intermediate-orange?style=for-the-badge&logo=Udemy" alt="Udemy: Java Mastery Intermediate">
     </a>
     <br>
-    <strong>Issued:</strong> November 2024
+    <strong>Issued :</strong> November 2024
   </p>
 
   <!-- HP LIFE - Data Science -->
@@ -120,7 +120,7 @@
       <img src="https://img.shields.io/badge/HP%20LIFE%20-%20Data%20Science%20%26%20Analytics-red?style=for-the-badge&logo=hp" alt="HP LIFE: Data Science & Analytics">
     </a>
     <br>
-    <strong>Issued:</strong> November 2024
+    <strong>Issued :</strong> November 2024
   </p>
 
   <!-- Cisco - Python Essentials 1 -->
@@ -129,7 +129,7 @@
       <img src="https://img.shields.io/badge/Cisco%20-%20Python%20Essentials%201-007ACC?style=for-the-badge&logo=python" alt="Cisco: Python Essentials 1">
     </a>
     <br>
-    <strong>Issued:</strong> November 2024
+    <strong>Issued :</strong> November 2024
   </p>
 
   <!-- Coursera - Business Analysis -->
@@ -138,7 +138,7 @@
       <img src="https://img.shields.io/badge/Coursera%20-%20Business%20Analysis%20%26%20Process%20Management-00008B?style=for-the-badge&logo=Coursera" alt="Coursera: Business Analysis & Process Management">
     </a>
     <br>
-    <strong>Issued:</strong> October 2024
+    <strong>Issued :</strong> October 2024
   </p>
 
 
