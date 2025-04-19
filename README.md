@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+AZIZ+Aymane;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Aymane+AZIZ;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -92,10 +92,9 @@
 
 
 <h2 align="center">🎓 Licenses and Certifications</h2>
-
 <p align="center">
   <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/">
-    <img src="https://img.shields.io/badge/Udemy-Learn%20Mastering%20Advanced%20Java%20with%20Object-Oriented%20Programming-yellow?style=for-the-badge" alt="Udemy : Mastering Advanced Java with Object-Oriented Programming">
+    <img src="https://img.shields.io/badge/Udemy-Mastering%20Advanced%20Java%20with%20OOP-yellow?style=for-the-badge" alt="Udemy: Mastering Advanced Java with Object-Oriented Programming">
   </a>
   <br>  
   <strong>Issued on:</strong> January 2025
