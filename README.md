@@ -89,8 +89,8 @@ I'm a passionate software developer from Morocco with a strong focus on creating
 ## 💼 Professional Experience
 
 
-  ###🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025)
-  ###🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)
+  ### 🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025)
+  ### 🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)
 
 
 ## 📂 Projects
