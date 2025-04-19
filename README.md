@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=tokyonight&margin-w=3" alt="Most Used Languages" height="300"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" height="300"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=10&margin-h=3" alt="GitHub Trophies" height="300"/>
 </div>
 
 <p align="center">
