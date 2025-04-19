@@ -32,8 +32,10 @@
   </a>
 </div>
 
-<div align="center">
-  <h2>🌟 About Me</h2>
+
+## 🚀 About Me
+
+  <div align="center" text-align: justify;>
   <table>
     <tr>
       <td>
