@@ -72,7 +72,7 @@
 
 ### 🧮  Application bancaire (Bank Management) 
 <details>
-  <summary><strong>📍 ESTO Oujda – Oct (2024 à Déc 2024)</strong></summary>
+  <summary><strong>📍 ESTO Oujda – (Oct 2024 à Déc 2024)</strong></summary>
   Technologies: Qt Creator, C++  ,sqlite 
   Banking system with secure authentication, account management, and automated processes.
 </details>
@@ -88,14 +88,14 @@
 
 ### 📈 Stage d’initiation chez SUPMTI, Oujda, Maroc (Juil 2024 - 4 semaines)
 
-### 🏨 Stage de fin d'études chez SEOMANIAK, Oujda, Maroc (Avr -Mai 2024 - 8 semaines) - **En cours**
+### 🏨 Stage de fin d'études chez SEOMANIAK, Oujda, Maroc (Avr -Mai 2025 - 8 semaines) - **En cours**
 
 
 <h2 align="center">🎓 Licenses and Certifications</h2>
 
 <p align="center">
   <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Udemy : Mastering Advanced Java with Object-Oriented Programming">
+    <img src="https://img.shields.io/badge/Udemy-Learn%20Mastering%20Advanced%20Java%20with%20Object-Oriented%20Programming-yellow?style=for-the-badge" alt="Udemy : Mastering Advanced Java with Object-Oriented Programming">
   </a>
   <br>  
   <strong>Issued on:</strong> August 2024
