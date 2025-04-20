@@ -28,14 +28,10 @@
 
 <br>
 <!----------------------------------------- Snake----------------------------------------------->
-## 🐍 My Contributions
+<h2>🐍 My Contributions</h2> 
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{aymaneaziz}/{aymaneaziz}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{aymaneaziz}/{aymaneaziz}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{aymaneaziz}/{aymaneaziz}/output/github-contribution-grid-snake.svg" />
-  </picture>
+ <img alt="github-snake" src="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-snake.svg" />
 </div>
 
 <hr>
