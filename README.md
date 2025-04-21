@@ -36,15 +36,6 @@
 </picture>
 
 
-
-<hr>
-
-<!----------------------------------------- Trophies----------------------------------------------->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=algolia&margin-w=4" alt="Most Used Languages" height="250"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
-</div>
-
 <!-----------------------------------------  About Me----------------------------------------------->
 
   <h2> 🚀 About Me </h2>
@@ -248,6 +239,11 @@
   </a>
 </div>
 
+<!----------------------------------------- Trophies----------------------------------------------->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=algolia&margin-w=4" alt="Most Used Languages" height="250"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
+</div>
 
 <!----------------------------------------- Connect With Me------------------------------------------------>
 ## 🌐 Connect With Me
@@ -273,7 +269,7 @@
   <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-
+<!----------------------------------------- footer------------------------------------------------>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+growing.;Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
