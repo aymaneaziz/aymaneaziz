@@ -27,6 +27,15 @@
 </div>
 
 <br>
+
+
+<!----------------------------------------- Trophies----------------------------------------------->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=algolia&margin-w=4" alt="Most Used Languages" height="250"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
+</div>
+
+
 <!----------------------------------------- Snake----------------------------------------------->
 <h2>🐍 My Contributions</h2> 
 <picture>
@@ -34,7 +43,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-snake.svg" />
 </picture>
-
 
 <!-----------------------------------------  About Me----------------------------------------------->
 
@@ -239,11 +247,7 @@
   </a>
 </div>
 
-<!----------------------------------------- Trophies----------------------------------------------->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=algolia&margin-w=4" alt="Most Used Languages" height="250"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
-</div>
+
 
 <!----------------------------------------- Connect With Me------------------------------------------------>
 ## 🌐 Connect With Me
