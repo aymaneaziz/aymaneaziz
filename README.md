@@ -25,6 +25,9 @@
     <img src="https://img.shields.io/badge/Phone-+212766633323-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 <br>
 
@@ -272,7 +275,7 @@
   <a href="https://github.com/aymaneaziz">
     <img src="https://img.shields.io/github/followers/aymaneaziz?style=for-the-badge&logo=github&logoColor=white&labelColor=222222&color=6366F1" alt="GitHub followers">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
 </p>
 
 <!----------------------------------------- footer------------------------------------------------>
