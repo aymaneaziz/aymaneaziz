@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer;Full-Stack+Developer;Tech+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer;Tech+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 <!-----------------------------------------  contact----------------------------------------------->
@@ -36,14 +36,14 @@
 </div>
 
 
-<!----------------------------------------- Snake----------------------------------------------->
+<!----------------------------------------- Snake---------------------------------------
 <h2>🐍 My Contributions</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-snake.svg" />
 </picture>
-
+-------->
 <!-----------------------------------------  About Me----------------------------------------------->
 
   <h2> 🚀 About Me </h2>
@@ -71,15 +71,17 @@
 
 <h2>📊 GitHub Stats & Activity</h2> 
 
-<div align="center"  >
-  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneaziz&theme=radical&hide_border=false&background=0D1117" height="170" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=0D1117" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymaneaziz&theme=radical&hide_border=false&background=0D1117" height="170" alt="GitHub Streak">
 </div>
 
 <br>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=6366F1&point=FFFFFF&hide_border=false" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=6366F1&point=FFFFFF&hide_border=false" width="100%" alt="Contribution Graph">
 </div>
+
 
 
 <!-----------------------------------------  Skills & Technologies------------------------------------------------>
