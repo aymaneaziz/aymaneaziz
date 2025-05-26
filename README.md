@@ -175,11 +175,11 @@
   <table align="center">
     <tr>
       <td width="250px">
-        <img src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-2143.jpg?w=740&t=st=1716720000~exp=1716720600~hmac=example" alt="ProfilePro - CV & Portfolio App">
+        <img src="https://github.com/user-attachments/assets/251a7ff1-89a9-4ef7-bd94-1474c0ef6595" alt="ProfilePro - CV & Portfolio App">
       </td>
       <td>
         <h3>🧑‍💻 ProfilePro – CV & Portfolio App</h3>
-        <p><b>Personal Project | 2025</b></p>
+        <p><b>Seomaniak – Oujda | Internship | April – June 2025</b></p>
         <p>Complete web application for creating and managing CVs and portfolios (with themes, export, sharing, analytics). Includes AI-assisted content generation using Gemini 2.0 Flash, offering users smart writing support for their resumes and portfolios.</p>
         <p><b>Technologies:</b> Symfony 7, MVC, React, Tailwind CSS, Vite, Gemini 2.0</p>
         <div>
