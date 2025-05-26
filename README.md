@@ -175,12 +175,12 @@
   <table align="center">
     <tr>
       <td width="250px">
-        <img src="https://github.com/user-attachments/assets/251a7ff1-89a9-4ef7-bd94-1474c0ef6595" alt="ProfilePro - CV & Portfolio App">
+        <img src="https://github.com/user-attachments/assets/251a7ff1-89a9-4ef7-bd94-1474c0ef6595" alt="ProfilePro - CV & Portfolio App" style="width: 300px; height: auto;">
       </td>
       <td>
         <h3>🧑‍💻 ProfilePro – CV & Portfolio App</h3>
         <p><b>Seomaniak – Oujda | Internship | April – June 2025</b></p>
-        <p>Complete web application for creating and managing CVs and portfolios (with themes, export, sharing, analytics). Includes AI-assisted content generation using Gemini 2.0 Flash, offering users smart writing support for their resumes and portfolios.</p>
+        <p>Complete web application for creating and managing CVs and portfolios . Includes AI-assisted content generation , offering users smart writing support for their resumes and portfolios.</p>
         <p><b>Technologies:</b> Symfony 7, MVC, React, Tailwind CSS, Vite, Gemini 2.0</p>
         <div>
           <img src="https://img.shields.io/badge/-%20Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
