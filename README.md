@@ -171,83 +171,79 @@
 
 
 ## 📂 Projects
-  <div align="center">
-    <table align="center">
-            <tr>
-  <td width="250px">
-    <img src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-2143.jpg?w=740&t=st=1716720000~exp=1716720600~hmac=example" alt="ProfilePro - CV & Portfolio App">
-  </td>
-  <td>
-    <h3>🧑‍💻 ProfilePro – CV & Portfolio App</h3>
-    <p><b>Personal Project | 2025</b></p>
-    <p>Complete web application for creating and managing CVs and portfolios (with themes, export, sharing, analytics). Includes AI-assisted content generation using Gemini 2.0 Flash, offering users smart writing support for their resumes and portfolios.</p>
-    <p><b>Technologies:</b> Symfony 7, MVC, React, Tailwind CSS, Vite, Gemini 2.0</p>
-    <div>
-      <img src="https://img.shields.io/badge/-%20Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
-      <img src="https://img.shields.io/badge/-%20MVC-5BCDEC?style=flat-square" alt="MVC">
-      <img src="https://img.shields.io/badge/-%20React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/-%20Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
-      <img src="https://img.shields.io/badge/-%20Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-      <img src="https://img.shields.io/badge/-%20Gemini%202.0-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini AI">
-    </div>
-  </td>
-</tr>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td width="250px">
+        <img src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-2143.jpg?w=740&t=st=1716720000~exp=1716720600~hmac=example" alt="ProfilePro - CV & Portfolio App">
+      </td>
+      <td>
+        <h3>🧑‍💻 ProfilePro – CV & Portfolio App</h3>
+        <p><b>Personal Project | 2025</b></p>
+        <p>Complete web application for creating and managing CVs and portfolios (with themes, export, sharing, analytics). Includes AI-assisted content generation using Gemini 2.0 Flash, offering users smart writing support for their resumes and portfolios.</p>
+        <p><b>Technologies:</b> Symfony 7, MVC, React, Tailwind CSS, Vite, Gemini 2.0</p>
+        <div>
+          <img src="https://img.shields.io/badge/-%20Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
+          <img src="https://img.shields.io/badge/-%20MVC-5BCDEC?style=flat-square" alt="MVC">
+          <img src="https://img.shields.io/badge/-%20React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/-%20Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
+          <img src="https://img.shields.io/badge/-%20Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+          <img src="https://img.shields.io/badge/-%20Gemini%202.0-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini AI">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="250px">
+        <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System">
+      </td>
+      <td>
+        <h3>🏨 Hotel Management System (HOTELPLUS)</h3>
+        <p><b>ESTO Oujda | Feb - Mar 2025</b></p>
+        <p>Development of dual applications (web and desktop) for managing hotel reservations, rooms, services, and more.</p>
+        <p><b>Technologies:</b> MVC Architecture, HTML, CSS, JavaScript, AJAX, PHP, MySQL, Java, JavaFX</p>
+        <div>
+          <img src="https://img.shields.io/badge/-%20MVC-5BCDEC?style=flat-square" alt="MVC">
+          <img src="https://img.shields.io/badge/-%20PHP-777BB4?style=flat-square" alt="PHP">
+          <img src="https://img.shields.io/badge/-%20MySQL-4479A1?style=flat-square" alt="MySQL">
+          <img src="https://img.shields.io/badge/-%20Java-ED8B00?style=flat-square" alt="Java">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250px">
+        <img src="https://github.com/user-attachments/assets/7ab1a8e6-cec7-4b73-b243-78081fff0287" alt="Banking Application">
+      </td>
+      <td>
+        <h3>🧮 Banking Application (Bank Management)</h3>
+        <p><b>ESTO Oujda | Oct - Dec 2024</b></p>
+        <p>Creation of a secure banking system with account management, transaction processing, and authentication features.</p>
+        <p><b>Technologies:</b> Qt Creator, C++, SQLite</p>
+        <div>
+          <img src="https://img.shields.io/badge/-%20Qt-41CD52?style=flat-square" alt="Qt">
+          <img src="https://img.shields.io/badge/-%20C++-00599C?style=flat-square" alt="C++">
+          <img src="https://img.shields.io/badge/-%20SQLite-003B57?style=flat-square" alt="SQLite">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250px">
+        <img src="https://github.com/user-attachments/assets/f217de72-d5e4-47a4-b1a7-2b7bb8705391" alt="Task Management Application" width="180px">
+      </td>
+      <td>
+        <h3>📑 Task Management Application (TO-DO App)</h3>
+        <p><b>SUPMTI Internship | Jul 2024</b></p>
+        <p>Development of an application for managing tasks, projects, and progress tracking.</p>
+        <p><b>Technologies:</b> HTML, CSS, JavaScript, PHP, MySQL</p>
+        <div>
+          <img src="https://img.shields.io/badge/-%20PHP-777BB4?style=flat-square" alt="PHP">
+          <img src="https://img.shields.io/badge/-%20JavaScript-F7DF1E?style=flat-square" alt="JavaScript">
+          <img src="https://img.shields.io/badge/-%20MySQL-4479A1?style=flat-square" alt="MySQL">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-      <tr>
-        <td width="250px">
-          <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System" ">
-        </td>
-        <td>
-          <!----------------------------------------- 1----------------------------------------------->
-          <h3>🏨 Hotel Management System (HOTELPLUS)</h3>
-          <p><b>ESTO Oujda | Feb - Mar 2025</b></p>
-          <p>Development of dual applications (web and desktop) for managing hotel reservations, rooms, services, and more.</p>
-          <p><b>Technologies:</b> MVC Architecture, HTML, CSS, JavaScript, AJAX, PHP, MySQL, Java, JavaFX</p>
-          <div>
-            <img src="https://img.shields.io/badge/-%20MVC-5BCDEC?style=flat-square" alt="MVC">
-            <img src="https://img.shields.io/badge/-%20PHP-777BB4?style=flat-square" alt="PHP">
-            <img src="https://img.shields.io/badge/-%20MySQL-4479A1?style=flat-square" alt="MySQL">
-            <img src="https://img.shields.io/badge/-%20Java-ED8B00?style=flat-square" alt="Java">
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td  align="center" width="250px">
-          <img src="https://github.com/user-attachments/assets/7ab1a8e6-cec7-4b73-b243-78081fff0287" alt="Banking Application"  >
-        </td>
-        <td>
-          <!----------------------------------------- 2------------------------------------------------>
-          <h3>🧮 Banking Application (Bank Management)</h3>
-          <p><b>ESTO Oujda | Oct - Dec 2024</b></p>
-          <p>Creation of a secure banking system with account management, transaction processing, and authentication features.</p>
-          <p><b>Technologies:</b> Qt Creator, C++, SQLite</p>
-          <div>
-            <img src="https://img.shields.io/badge/-%20Qt-41CD52?style=flat-square" alt="Qt">
-            <img src="https://img.shields.io/badge/-%20C++-00599C?style=flat-square" alt="C++">
-            <img src="https://img.shields.io/badge/-%20SQLite-003B57?style=flat-square" alt="SQLite">
-          </div>
-        </td>
-      </tr>
-      <tr>
-            <td align="center" width="250px">
-              <img src="https://github.com/user-attachments/assets/f217de72-d5e4-47a4-b1a7-2b7bb8705391" alt="Task Management Application"  width="180px">
-            </td>
-           <td>
-             <!----------------------------------------- 3------------------------------------------------>
-          <h3>📑 Task Management Application (TO-DO App)</h3>
-          <p><b>SUPMTI Internship | Jul 2024</b></p>
-          <p>Development of an application for managing tasks, projects, and progress tracking.</p>
-          <p><b>Technologies:</b> HTML, CSS, JavaScript, PHP, MySQL</p>
-          <div>
-            <img src="https://img.shields.io/badge/-%20PHP-777BB4?style=flat-square" alt="PHP">
-            <img src="https://img.shields.io/badge/-%20JavaScript-F7DF1E?style=flat-square" alt="JavaScript">
-            <img src="https://img.shields.io/badge/-%20MySQL-4479A1?style=flat-square" alt="MySQL">
-          </div>
-        </td>
-      </tr>
-        
-   </table>
-  </div>
 
 <!----------------------------------------- Certifications & Achievements------------------------------------------------>
 ## 🏆 Certifications & Achievements
