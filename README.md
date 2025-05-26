@@ -175,9 +175,7 @@
   <table align="center">
     <tr>
       <td width="250px">
-        <img src="https://github.com/user-attachments/assets/53c95e80-e5d4-4a5c-bd23-fd00be256b4e" alt="ProfilePro - CV & Portfolio App" style="width: 300px; height: auto;">
-      
-
+        <img src="https://github.com/user-attachments/assets/53c95e80-e5d4-4a5c-bd23-fd00be256b4e" alt="ProfilePro - CV & Portfolio App" style="width: 200px; height: auto;">
       </td>
       <td>
         <h3>🧑‍💻 ProfilePro – CV & Portfolio App</h3>
