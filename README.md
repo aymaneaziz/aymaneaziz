@@ -102,12 +102,12 @@
   
   ### Frameworks & Libraries
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
@@ -173,6 +173,26 @@
 ## 📂 Projects
   <div align="center">
     <table align="center">
+            <tr>
+  <td width="250px">
+    <img src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-2143.jpg?w=740&t=st=1716720000~exp=1716720600~hmac=example" alt="ProfilePro - CV & Portfolio App">
+  </td>
+  <td>
+    <h3>🧑‍💻 ProfilePro – CV & Portfolio App</h3>
+    <p><b>Personal Project | 2025</b></p>
+    <p>Complete web application for creating and managing CVs and portfolios (with themes, export, sharing, analytics). Includes AI-assisted content generation using Gemini 2.0 Flash, offering users smart writing support for their resumes and portfolios.</p>
+    <p><b>Technologies:</b> Symfony 7, MVC, React, Tailwind CSS, Vite, Gemini 2.0</p>
+    <div>
+      <img src="https://img.shields.io/badge/-%20Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
+      <img src="https://img.shields.io/badge/-%20MVC-5BCDEC?style=flat-square" alt="MVC">
+      <img src="https://img.shields.io/badge/-%20React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/-%20Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
+      <img src="https://img.shields.io/badge/-%20Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/badge/-%20Gemini%202.0-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini AI">
+    </div>
+  </td>
+</tr>
+
       <tr>
         <td width="250px">
           <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System" ">
