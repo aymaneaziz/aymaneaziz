@@ -175,10 +175,10 @@
   <table align="center">
     <tr>
       <td width="250px">
-        <img src="https://github.com/user-attachments/assets/e23486c0-c212-4c2b-8eac-af16f449ee32" alt="ProfilePro - CV & Portfolio App" style="width: 200px; height: auto;">
+        <img src="https://github.com/user-attachments/assets/d40d67aa-c199-4b2d-8504-0be2c1b00736" alt="ProfilePro - CV & Portfolio App" style="width: 200px; height: auto;">
       </td>
       <td>
-        <h3>🧑‍💻 ProfilePro – CV & Portfolio App</h3>
+        <h3>🧑‍💻Ai ProfilePro – CV & Portfolio App</h3>
         <p><b>Seomaniak – Oujda | Internship | April – June 2025</b></p>
         <p>Complete web application for creating and managing CVs and portfolios . Includes AI-assisted content generation , offering users smart writing support for their resumes and portfolios.</p>
         <p><b>Technologies:</b> Symfony 7, MVC, React, Tailwind CSS, Vite, Gemini 2.0</p>
