@@ -215,7 +215,7 @@
         <img src="https://github.com/user-attachments/assets/7ab1a8e6-cec7-4b73-b243-78081fff0287" alt="Banking Application">
       </td>
       <td>
-        <h3>🧮 Banking Application (Bank Management)</h3>
+        <h3>🏦  Banking Application (Bank Management)</h3>
         <p><b>ESTO Oujda | Oct - Dec 2024</b></p>
         <p>Creation of a secure banking system with account management, transaction processing, and authentication features.</p>
         <p><b>Technologies:</b> Qt Creator, C++, SQLite</p>
