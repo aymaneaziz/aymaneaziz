@@ -50,7 +50,7 @@
 -------->
 <!-----------------------------------------  About Me----------------------------------------------->
 
-  ## <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="35">About Me 
+  ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35"><b> About Me </b>
 
   <div align="center" style="text-align:justify;">
   
