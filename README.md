@@ -76,7 +76,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-----------------------------------------  GitHub Stats & Activity----------------------------------------------->
 
-<h2>📊 GitHub Stats & Activity</h2> 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aymaneaziz&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=0D1117" height="170" alt="GitHub Stats">
@@ -95,7 +95,9 @@
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Skills & Technologies
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 <div align="center">
   
   ### Languages
@@ -163,7 +165,8 @@
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- ## 🎓 Education
+
+ ##  <img src="./assets/giphy.gif" width="30px" alt="Git"/>🎓 Education
 <div align="left">
   <h4>🎯 Specialized Technician - IT Development (2023 - 2025)</h4>
     - École Supérieure de Technologie, Oujda (ESTO)
@@ -174,13 +177,14 @@
 
 <!----------------------------------------- Professional Experience------------------------------------------------>
 
-## 💼 Professional Experience
+##  <img src="./assets/giphy.gif" width="30px" alt="Git"/> 💼 Professional Experience
   <h4>🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025 - 8 weeks)<h4>
   <h4>🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)<h4>
 
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📂 Projects
 <div align="center">
   <table align="center">
@@ -258,7 +262,10 @@
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!----------------------------------------- Certifications & Achievements------------------------------------------------>
-## 🏆 Certifications & Achievements
+
+
+## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Certifications & Achievements</b>
+
 
 <div align="center">
   <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/">
