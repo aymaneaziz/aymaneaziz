@@ -38,7 +38,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
 </div>
 
-
+<!-- Ligne  -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!----------------------------------------- Snake---------------------------------------
 <h2>🐍 My Contributions</h2> 
 <picture>
@@ -50,8 +51,7 @@
 <!-----------------------------------------  About Me----------------------------------------------->
 
   <h2> 🚀 About Me </h2>
-<!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
   <div align="center" style="text-align:justify;">
   
   <table>
@@ -72,6 +72,8 @@
     </tr>
   </table>
 </div>
+<!-- Ligne  -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-----------------------------------------  GitHub Stats & Activity----------------------------------------------->
 
 <h2>📊 GitHub Stats & Activity</h2> 
@@ -90,6 +92,9 @@
 
 
 <!-----------------------------------------  Skills & Technologies------------------------------------------------>
+<!-- Ligne  -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## 🛠️ Skills & Technologies
 <div align="center">
   
@@ -155,6 +160,8 @@
 </div>
 
 <!----------------------------------------- Education------------------------------------------------>
+<!-- Ligne  -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
  ## 🎓 Education
 <div align="left">
@@ -172,7 +179,8 @@
   <h4>🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)<h4>
 
 
-
+<!-- Ligne  -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 📂 Projects
 <div align="center">
   <table align="center">
@@ -247,7 +255,8 @@
   </table>
 </div>
 
-
+<!-- Ligne  -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!----------------------------------------- Certifications & Achievements------------------------------------------------>
 ## 🏆 Certifications & Achievements
 
@@ -299,6 +308,8 @@
   
 </p>
 
+<!-- Ligne  -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!----------------------------------------- footer------------------------------------------------>
 
 <h3 align="center">
