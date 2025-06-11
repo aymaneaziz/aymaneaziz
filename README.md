@@ -50,7 +50,7 @@
 -------->
 <!-----------------------------------------  About Me----------------------------------------------->
 
-  ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35"><b> About Me </b>
+  ## 🚀 About Me 
 
   <div align="center" style="text-align:justify;">
   
@@ -166,18 +166,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
- ## <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="30px" alt="Git"/>🎓 Education
+ ## 🎓 Education
 <div align="left">
+    <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   <h4>🎯 Specialized Technician - IT Development (2023 - 2025)</h4>
     - École Supérieure de Technologie, Oujda (ESTO)
-  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   <h4>🎯 Baccalaureate - Physical Sciences (2022 - 2023)</h4>
     - École Al Manbaee, Oujda, Morocco</p>
 </div>
 
 <!----------------------------------------- Professional Experience------------------------------------------------>
 
-## <img src="https://media.giphy.com/media/3og0INyCmHlNylks9O/giphy.gif" width="30px" alt="Git"/> 💼 Professional Experience
+## 💼 Professional Experience
   <h4>🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025 - 8 weeks)<h4>
   <h4>🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)<h4>
 
