@@ -39,7 +39,7 @@
 </div>
 
 <!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!----------------------------------------- Snake---------------------------------------
 <h2>🐍 My Contributions</h2> 
 <picture>
@@ -73,7 +73,7 @@
   </table>
 </div>
 <!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-----------------------------------------  GitHub Stats & Activity----------------------------------------------->
 
 <h2>📊 GitHub Stats & Activity</h2> 
@@ -93,7 +93,7 @@
 
 <!-----------------------------------------  Skills & Technologies------------------------------------------------>
 <!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Skills & Technologies
 <div align="center">
@@ -161,7 +161,7 @@
 
 <!----------------------------------------- Education------------------------------------------------>
 <!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  ## 🎓 Education
 <div align="left">
@@ -180,7 +180,7 @@
 
 
 <!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 📂 Projects
 <div align="center">
   <table align="center">
@@ -256,7 +256,7 @@
 </div>
 
 <!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!----------------------------------------- Certifications & Achievements------------------------------------------------>
 ## 🏆 Certifications & Achievements
 
@@ -309,7 +309,7 @@
 </p>
 
 <!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!----------------------------------------- footer------------------------------------------------>
 
 <h3 align="center">
