@@ -50,7 +50,7 @@
 -------->
 <!-----------------------------------------  About Me----------------------------------------------->
 
-  <h2> 🚀 About Me </h2>
+  <h2> 🚀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> <b>About Me</b> </h2>
 
   <div align="center" style="text-align:justify;">
   
@@ -126,7 +126,7 @@
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  
+ <!--  
 ### IDEs & Tools
   ![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -158,7 +158,7 @@
   ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
   ![MVC](https://img.shields.io/badge/MVC-888888?style=for-the-badge&logo=mvc&logoColor=white)
   
-  
+  -->
 </div>
 
 <!----------------------------------------- Education------------------------------------------------>
@@ -166,18 +166,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
- ##  <img src="./assets/giphy.gif" width="30px" alt="Git"/>🎓 Education
+ ## <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="30px" alt="Git"/>🎓 Education
 <div align="left">
   <h4>🎯 Specialized Technician - IT Development (2023 - 2025)</h4>
     - École Supérieure de Technologie, Oujda (ESTO)
-  
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   <h4>🎯 Baccalaureate - Physical Sciences (2022 - 2023)</h4>
     - École Al Manbaee, Oujda, Morocco</p>
 </div>
 
 <!----------------------------------------- Professional Experience------------------------------------------------>
 
-##  <img src="./assets/giphy.gif" width="30px" alt="Git"/> 💼 Professional Experience
+## <img src="https://media.giphy.com/media/3og0INyCmHlNylks9O/giphy.gif" width="30px" alt="Git"/> 💼 Professional Experience
   <h4>🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025 - 8 weeks)<h4>
   <h4>🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)<h4>
 
