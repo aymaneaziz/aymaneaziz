@@ -165,7 +165,7 @@
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<!--
  ## 🎓 Education
 <div align="left">
     <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -174,10 +174,11 @@
   <h4>🎯 Baccalaureate - Physical Sciences (2022 - 2023)</h4>
     - École Al Manbaee, Oujda, Morocco</p>
 </div>
-
+---->
 <!----------------------------------------- Professional Experience------------------------------------------------>
 
 ## 💼 Professional Experience
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   <h4>🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025 - 8 weeks)<h4>
   <h4>🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)<h4>
 
