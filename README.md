@@ -275,11 +275,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+ <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+growing.;Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
 </h3>
- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 
 
 <p align="center">
