@@ -29,8 +29,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=algolia&margin-w=4" alt="Most Used Languages" height="250"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/> -->
 </div>
 
 <div align="center">
