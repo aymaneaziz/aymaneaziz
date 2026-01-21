@@ -1,19 +1,15 @@
-
-
 <h1 align="center">
   <a href="https://github.com/aymaneaziz">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+World!+%F0%9F%91%8B;I'm+Aymane+AZIZ;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer+Junior;Tech+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
-<!-----------------------------------------  contact----------------------------------------------->
 <div align="center">
-  <a href="mailto:aymenaziz1234g@gmail.com">
+  <a href="mailto:aymenaziz1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-aymenaziz1234%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   
@@ -31,32 +27,21 @@
 
 <br>
 
-
-<!----------------------------------------- Trophies----------------------------------------------->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymaneaziz&layout=donut-vertical&theme=algolia&margin-w=4" alt="Most Used Languages" height="250"/>
   <img src="https://github-profile-trophy.vercel.app/?username=aymaneaziz&theme=algolia&column=4&margin-w=4&margin-h=4" alt="GitHub Trophies" height="250"/>
 </div>
 
-<!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!----------------------------------------- Snake---------------------------------------
-<h2>🐍 My Contributions</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aymaneaziz/aymaneaziz/output/github-snake.svg" />
-</picture>
--------->
-<!-----------------------------------------  About Me----------------------------------------------->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-  ## 🚀 About Me 
+## 🚀 About Me 
 
-  <div align="center" style="text-align:justify;">
-  
+<div align="center">
   <table>
     <tr>
-      <td>
+      <td valign="top">
         <p>I'm a passionate software developer from Morocco with a strong focus on creating clean, efficient, and user-friendly applications. Currently specializing in PHP development, I love to explore new technologies and continuously expand my skill set.</p>
         <ul>
           <li>🔭 I'm currently working on: <b>Advanced web applications with Symfony</b></li>
@@ -66,15 +51,16 @@
           <li>⚡ Fun fact: <b>I can solve a Rubik's cube in under 2 minutes!</b></li>
         </ul>
       </td>
-      <td width="40%">
+      <td width="35%">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U1Z2RoZ2UzeGRsNm9ndXQ3M2RyNjNvMmcweWduemc3dHc3cnZkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%">
       </td>
     </tr>
   </table>
 </div>
-<!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-----------------------------------------  GitHub Stats & Activity----------------------------------------------->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
@@ -89,27 +75,24 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymaneaziz&bg_color=0D1117&color=5BCDEC&line=6366F1&point=FFFFFF&hide_border=false" width="100%" alt="Contribution Graph">
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-
-<!-----------------------------------------  Skills & Technologies------------------------------------------------>
-<!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
 
 <div align="center">
   
-  ### Languages
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
   
-  ### Frameworks & Libraries
+### Frameworks & Libraries
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -120,85 +103,60 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-  
-  ### Databases
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
- <!--  
-### IDEs & Tools
-  ![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-  ![SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Scene Builder](https://img.shields.io/badge/Scene_Builder-2C2255?style=for-the-badge&logo=java&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  
-  
-  ### Design & Création Graphique
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-  ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-  ![MediBang Paint](https://img.shields.io/badge/MediBang_Paint-0099FF?style=for-the-badge&logo=medibangpaint&logoColor=white)
-  ![Pixel Art](https://img.shields.io/badge/Pixel_Art-FF69B4?style=for-the-badge&logo=pixilart&logoColor=white)
-  ![Animation Desk](https://img.shields.io/badge/Animation_Desk-FCCF00?style=for-the-badge&logo=animation&logoColor=white)
-  ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-  
-  ### Méthodologies & Pratiques
-  ![UML](https://img.shields.io/badge/UML-0B1F35?style=for-the-badge&logo=uml&logoColor=white)
-  ![Merise](https://img.shields.io/badge/Merise-EC6C4B?style=for-the-badge&logo=merise&logoColor=white)
-  ![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=atlassian&logoColor=white)
-  ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-  ![MVC](https://img.shields.io/badge/MVC-888888?style=for-the-badge&logo=mvc&logoColor=white)
-  
-  -->
-</div>
-
-<!----------------------------------------- Education------------------------------------------------>
-<!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
- ## 🎓 Education
-<div align="left">
-    <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-  <h4>🎯 Engineering Student – Computer Engineering (2025)</h4>
-<p>National School of Artificial Intelligence and Digital Technology (ENIAD), Berkane, Morocco</p>
-
-<h4>🎯 Specialized Technician – Computer Engineering (2023 – 2025)</h4>
-<p>Higher School of Technology (ESTO), Oujda, Morocco</p>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
-<!----------------------------------------- Professional Experience------------------------------------------------>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td width="80%">
+      <h4>🎯 Engineering Student – Computer Engineering (2025)</h4>
+      <p>National School of Artificial Intelligence and Digital Technology (ENIAD), Berkane, Morocco</p>
+      <h4>🎯 Specialized Technician – Computer Engineering (2023 – 2025)</h4>
+      <p>Higher School of Technology (ESTO), Oujda, Morocco</p>
+    </td>
+    <td width="20%">
+      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Student GIF" width="150px">
+    </td>
+  </tr>
+</table>
 
 ## 💼 Professional Experience
 
-  <h4>🔹End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025 - 8 weeks)<h4>
-  <h4>🔹Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)<h4>
+<ul>
+  <li>
+    <h4>🔹 End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025 - 8 weeks)</h4>
+  </li>
+  <li>
+    <h4>🔹 Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)</h4>
+  </li>
+</ul>
 
-
-<!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 📂 Projects
 <div align="center">
   <table align="center">
     <tr>
-      <td width="250px">
-        <img src="https://github.com/user-attachments/assets/d40d67aa-c199-4b2d-8504-0be2c1b00736" alt="ProfilePro - CV & Portfolio App" style="width: 200px; height: auto;">
+      <td width="250px" align="center">
+        <img src="https://github.com/user-attachments/assets/d40d67aa-c199-4b2d-8504-0be2c1b00736" alt="ProfilePro" style="width: 200px; height: auto; border-radius: 10px;">
       </td>
       <td>
-        <h3>🧑‍💻Ai ProfilePro – CV & Portfolio App</h3>
+        <h3>🧑‍💻 Ai ProfilePro – CV & Portfolio App</h3>
         <p><b>Seomaniak – Oujda | Internship | April – June 2025</b></p>
-        <p>Complete web application for creating and managing CVs and portfolios . Includes AI-assisted content generation , offering users smart writing support for their resumes and portfolios.</p>
+        <p>Complete web application for creating and managing CVs and portfolios. Includes AI-assisted content generation.</p>
         <p><b>Technologies:</b> Symfony 7, MVC, React, Tailwind CSS, Vite, Gemini 2.0</p>
         <div>
           <img src="https://img.shields.io/badge/-%20Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
@@ -211,14 +169,14 @@
       </td>
     </tr>
     <tr>
-      <td width="250px">
-        <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System">
+      <td width="250px" align="center">
+        <img src="https://github.com/user-attachments/assets/b75958c6-20cd-4996-a7ac-16b07938f6ab" alt="Hotel Management System" style="width: 200px; border-radius: 10px;">
       </td>
       <td>
         <h3>🏨 Hotel Management System (HOTELPLUS)</h3>
         <p><b>ESTO Oujda | Feb - Mar 2025</b></p>
-        <p>Development of dual applications (web and desktop) for managing hotel reservations, rooms, services, and more.</p>
-        <p><b>Technologies:</b> MVC Architecture, HTML, CSS, JavaScript, AJAX, PHP, MySQL, Java, JavaFX</p>
+        <p>Development of dual applications (web and desktop) for managing hotel reservations.</p>
+        <p><b>Technologies:</b> MVC, PHP, MySQL, Java, JavaFX</p>
         <div>
           <img src="https://img.shields.io/badge/-%20MVC-5BCDEC?style=flat-square" alt="MVC">
           <img src="https://img.shields.io/badge/-%20PHP-777BB4?style=flat-square" alt="PHP">
@@ -229,12 +187,12 @@
     </tr>
     <tr>
       <td align="center" width="250px">
-        <img src="https://github.com/user-attachments/assets/7ab1a8e6-cec7-4b73-b243-78081fff0287" alt="Banking Application">
+        <img src="https://github.com/user-attachments/assets/7ab1a8e6-cec7-4b73-b243-78081fff0287" alt="Banking Application" style="width: 200px; border-radius: 10px;">
       </td>
       <td>
-        <h3>🏦  Banking Application (Bank Management)</h3>
+        <h3>🏦 Banking Application (Bank Management)</h3>
         <p><b>ESTO Oujda | Oct - Dec 2024</b></p>
-        <p>Creation of a secure banking system with account management, transaction processing, and authentication features.</p>
+        <p>Creation of a secure banking system with account management and transactions.</p>
         <p><b>Technologies:</b> Qt Creator, C++, SQLite</p>
         <div>
           <img src="https://img.shields.io/badge/-%20Qt-41CD52?style=flat-square" alt="Qt">
@@ -245,7 +203,7 @@
     </tr>
     <tr>
       <td align="center" width="250px">
-        <img src="https://github.com/user-attachments/assets/f217de72-d5e4-47a4-b1a7-2b7bb8705391" alt="Task Management Application" width="180px">
+        <img src="https://github.com/user-attachments/assets/f217de72-d5e4-47a4-b1a7-2b7bb8705391" alt="Task Management Application" width="180px" style="border-radius: 10px;">
       </td>
       <td>
         <h3>📑 Task Management Application (TO-DO App)</h3>
@@ -262,13 +220,11 @@
   </table>
 </div>
 
-<!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!----------------------------------------- Certifications & Achievements------------------------------------------------>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Certifications & Achievements</b>
-
 
 <div align="center">
   <a href="https://www.udemy.com/certificate/UC-4b065a41-60c5-4e37-886e-4fa778f999a8/">
@@ -292,13 +248,10 @@
   </a>
 </div>
 
-
-
-<!----------------------------------------- Connect With Me------------------------------------------------>
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:aymenaziz1234g@gmail.com">
+  <a href="mailto:aymenaziz1234@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/aziz77">
@@ -315,12 +268,11 @@
   <a href="https://github.com/aymaneaziz">
     <img src="https://img.shields.io/github/followers/aymaneaziz?style=for-the-badge&logo=github&logoColor=white&labelColor=222222&color=6366F1" alt="GitHub followers">
   </a>
-  
 </p>
 
-<!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!----------------------------------------- footer------------------------------------------------>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+growing.;Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
@@ -334,4 +286,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=&fontSize=0" width="100%"/>
 </div>
-
