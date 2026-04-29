@@ -65,10 +65,10 @@
       <td valign="top">
         <p>I'm a passionate software developer from Morocco with a strong focus on creating clean, efficient, and user-friendly applications. Currently specializing in PHP development, I love to explore new technologies and continuously expand my skill set.</p>
         <ul>
-          <li>🔭 I'm currently working on: <b>Advanced web applications with Symfony</b></li>
-          <li>🌱 I'm currently learning: <b>React.js and cloud technologies</b></li>
+          <li>🔭 I'm currently working on: <b>Advanced web applications </b></li>
+          <li>🌱 I'm currently learning: <b>React.js, Nodejs and cloud technologies</b></li>
           <li>👯 I'm looking to collaborate on: <b>Open source projects</b></li>
-          <li>💬 Ask me about: <b>PHP, Symfony, Java, Software Architecture</b></li>
+          <li>💬 Ask me about: <b>C++, Java, Software Architecture</b></li>
           <li>⚡ Fun fact: <b>I can solve a Rubik's cube in under 2 minutes!</b></li>
         </ul>
       </td>
