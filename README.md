@@ -45,7 +45,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Code-LeetCode-orange"/>
+
 <img src="https://img.shields.io/badge/Stack-MERN-green"/>
 <img src="https://img.shields.io/badge/Focus-Problem%20Solving-blue"/>
 
@@ -155,7 +155,7 @@
   ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
   
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,docker,npm,postman,git,github,blender" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,docker,npm,postman,linux,git,github,blender" />
   </p>
 
 </div> 
