@@ -198,6 +198,27 @@
 ## 📂 Projects
 <div align="center">
   <table align="center">
+     <tr>
+      <td width="250px" align="center">
+        <img src="https://github.com/user-attachments/assets/YOUR_CODE_ARENA_IMAGE_HASH" alt="Code Arena" style="width: 200px; height: auto; border-radius: 10px;">
+      </td>
+      <td>
+        <h3>⚔️ Code Arena – Real-Time Coding Battle Platform</h3>
+        <p><b>Personal Project | 2025</b></p>
+        <p>Competitive coding platform where developers battle in real-time by solving programming challenges. Features live code execution via Judge0, AI-powered hints with Groq, and instant matchmaking using WebSockets.</p>
+        <p><b>Technologies:</b> MongoDB, Express, React, Node.js (MERN), WebSockets, Judge0, Docker, Groq AI</p>
+        <div>
+          <img src="https://img.shields.io/badge/-%20MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+          <img src="https://img.shields.io/badge/-%20Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+          <img src="https://img.shields.io/badge/-%20React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/-%20Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+          <img src="https://img.shields.io/badge/-%20WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets">
+          <img src="https://img.shields.io/badge/-%20Judge0-FF6B35?style=flat-square" alt="Judge0">
+          <img src="https://img.shields.io/badge/-%20Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+          <img src="https://img.shields.io/badge/-%20Groq%20AI-F55036?style=flat-square" alt="Groq AI">
+        </div>
+      </td>
+    </tr>
     <tr>
       <td width="250px" align="center">
         <img src="https://github.com/user-attachments/assets/d40d67aa-c199-4b2d-8504-0be2c1b00736" alt="ProfilePro" style="width: 200px; height: auto; border-radius: 10px;">
