@@ -200,7 +200,7 @@
   <table align="center">
     <tr>
       <td width="250px" align="center">
-        <img src="https://github.com/user-attachments/assets/57a67106-bed5-452f-9f38-6f3ed5f06df4" alt="Code Arena" style="width: 300px; height: auto; border-radius: 10px;">
+        <img src="https://github.com/user-attachments/assets/57a67106-bed5-452f-9f38-6f3ed5f06df4" alt="Code Arena" style="width: 350px; height: auto; border-radius: 10px;">
       </td>
       <td>
         <h3>⚔️ Code Arena – Competitive Programming Battle Platform</h3>
