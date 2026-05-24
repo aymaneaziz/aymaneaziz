@@ -198,15 +198,15 @@
 ## 📂 Projects
 <div align="center">
   <table align="center">
-     <tr>
+    <tr>
       <td width="250px" align="center">
-        <img src="https://github.com/user-attachments/assets/YOUR_CODE_ARENA_IMAGE_HASH" alt="Code Arena" style="width: 200px; height: auto; border-radius: 10px;">
+        <img src="https://github.com/user-attachments/assets/57a67106-bed5-452f-9f38-6f3ed5f06df4" alt="Code Arena" style="width: 300px; height: auto; border-radius: 10px;">
       </td>
       <td>
-        <h3>⚔️ Code Arena – Real-Time Coding Battle Platform</h3>
-        <p><b>Personal Project | 2025</b></p>
-        <p>Competitive coding platform where developers battle in real-time by solving programming challenges. Features live code execution via Judge0, AI-powered hints with Groq, and instant matchmaking using WebSockets.</p>
-        <p><b>Technologies:</b> MongoDB, Express, React, Node.js (MERN), WebSockets, Judge0, Docker, Groq AI</p>
+        <h3>⚔️ Code Arena – Competitive Programming Battle Platform</h3>
+        <p><b>ENIAD | May 2026</b></p>
+        <p>Competitive programming platform with solo challenges, 1v1 battles, missions, a shop system, leaderboard, AI coach, and player profiles. Features real-time code execution, live matchmaking, and AI-powered coaching.</p>
+        <p><b>Technologies:</b> MERN, WebSockets, Judge0, Docker, Groq AI</p>
         <div>
           <img src="https://img.shields.io/badge/-%20MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
           <img src="https://img.shields.io/badge/-%20Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
@@ -224,9 +224,9 @@
         <img src="https://github.com/user-attachments/assets/d40d67aa-c199-4b2d-8504-0be2c1b00736" alt="ProfilePro" style="width: 200px; height: auto; border-radius: 10px;">
       </td>
       <td>
-        <h3>🧑‍💻 Ai ProfilePro – CV & Portfolio App</h3>
+        <h3>🧑‍💻 AI ProfilePro – CV & Portfolio App</h3>
         <p><b>Seomaniak – Oujda | Internship | April – June 2025</b></p>
-        <p>Complete web application for creating and managing CVs and portfolios. Includes AI-assisted content generation.</p>
+        <p>Web application for creating and managing CVs and portfolios with AI-assisted content generation, real-time preview, and export features.</p>
         <p><b>Technologies:</b> Symfony 7, MVC, React, Tailwind CSS, Vite, Gemini 2.0</p>
         <div>
           <img src="https://img.shields.io/badge/-%20Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
@@ -244,14 +244,15 @@
       </td>
       <td>
         <h3>🏨 Hotel Management System (HOTELPLUS)</h3>
-        <p><b>ESTO Oujda | Feb - Mar 2025</b></p>
-        <p>Development of dual applications (web and desktop) for managing hotel reservations.</p>
+        <p><b>ESTO Oujda | Feb – Mar 2025</b></p>
+        <p>Dual web and desktop application for managing hotel reservations, room availability, client records, and booking history.</p>
         <p><b>Technologies:</b> MVC, PHP, MySQL, Java, JavaFX</p>
         <div>
           <img src="https://img.shields.io/badge/-%20MVC-5BCDEC?style=flat-square" alt="MVC">
           <img src="https://img.shields.io/badge/-%20PHP-777BB4?style=flat-square" alt="PHP">
           <img src="https://img.shields.io/badge/-%20MySQL-4479A1?style=flat-square" alt="MySQL">
           <img src="https://img.shields.io/badge/-%20Java-ED8B00?style=flat-square" alt="Java">
+          <img src="https://img.shields.io/badge/-%20JavaFX-ED8B00?style=flat-square" alt="JavaFX">
         </div>
       </td>
     </tr>
@@ -261,8 +262,8 @@
       </td>
       <td>
         <h3>🏦 Banking Application (Bank Management)</h3>
-        <p><b>ESTO Oujda | Oct - Dec 2024</b></p>
-        <p>Creation of a secure banking system with account management and transactions.</p>
+        <p><b>ESTO Oujda | Oct – Dec 2024</b></p>
+        <p>Secure desktop banking system with account management, transaction processing, balance tracking, and user authentication.</p>
         <p><b>Technologies:</b> Qt Creator, C++, SQLite</p>
         <div>
           <img src="https://img.shields.io/badge/-%20Qt-41CD52?style=flat-square" alt="Qt">
@@ -278,7 +279,7 @@
       <td>
         <h3>📑 Task Management Application (TO-DO App)</h3>
         <p><b>SUPMTI Internship | Jul 2024</b></p>
-        <p>Development of an application for managing tasks, projects, and progress tracking.</p>
+        <p>Web application for managing tasks and projects with progress tracking, priority settings, deadlines, and user assignment.</p>
         <p><b>Technologies:</b> HTML, CSS, JavaScript, PHP, MySQL</p>
         <div>
           <img src="https://img.shields.io/badge/-%20PHP-777BB4?style=flat-square" alt="PHP">
