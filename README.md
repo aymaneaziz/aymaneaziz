@@ -172,7 +172,7 @@
       <h4>🎯 Engineering Student – Computer Engineering (2025)</h4>
       <p>National School of Artificial Intelligence and Digital Technology (ENIAD), Berkane, Morocco</p>
       <h4>🎯 Specialized Technician – Computer Engineering (2023 – 2025)</h4>
-      <p>Higher School of Technology (ESTO), Oujda, Morocco</p>
+      <p>Higher School of Technology (EST), Oujda, Morocco</p>
     </td>
     <td width="20%">
       <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Student GIF" width="150px">
@@ -244,7 +244,7 @@
       </td>
       <td>
         <h3>🏨 Hotel Management System (HOTELPLUS)</h3>
-        <p><b>ESTO Oujda | Feb – Mar 2025</b></p>
+        <p><b>EST Oujda | Feb – Mar 2025</b></p>
         <p>Dual web and desktop application for managing hotel reservations, room availability, client records, and booking history.</p>
         <p><b>Technologies:</b> MVC, PHP, MySQL, Java, JavaFX</p>
         <div>
@@ -262,7 +262,7 @@
       </td>
       <td>
         <h3>🏦 Banking Application (Bank Management)</h3>
-        <p><b>ESTO Oujda | Oct – Dec 2024</b></p>
+        <p><b>EST Oujda | Oct – Dec 2024</b></p>
         <p>Secure desktop banking system with account management, transaction processing, balance tracking, and user authentication.</p>
         <p><b>Technologies:</b> Qt Creator, C++, SQLite</p>
         <div>
