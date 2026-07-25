@@ -46,7 +46,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Stack-MERN-green"/>
+<!-- <img src="https://img.shields.io/badge/Stack-MERN-green"/> -->
 <img src="https://img.shields.io/badge/Focus-Problem%20Solving-blue"/>
 
 
