@@ -9,7 +9,7 @@
 </p>
 
 <!-- Start -->
-<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+<img src="https://github.com/aymaneaziz/aymaneaziz/blob/main/green.gif" alt="GIF" style="width:auto; height:auto" />
 
 
 <div align="center">
