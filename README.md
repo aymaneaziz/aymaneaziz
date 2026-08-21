@@ -169,10 +169,12 @@
 <table>
   <tr>
     <td width="80%">
-      <h4>🎯 Engineering Student – Computer Engineering (2025)</h4>
+      <h4>🎯 Engineering Student – Computer Engineering (Now)</h4>
       <p>National School of Artificial Intelligence and Digital Technology (ENIAD), Berkane, Morocco</p>
+     <!-- 
       <h4>🎯 Specialized Technician – Computer Engineering (2023 – 2025)</h4>
       <p>Higher School of Technology (EST), Oujda, Morocco</p>
+      -->
     </td>
     <td width="20%">
       <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Student GIF" width="150px">
@@ -180,17 +182,19 @@
   </tr>
 </table>
 
-## 💼 Professional Experience
-
+<!-- ## 💼 Professional Experience -->
+ <!--
 <ul>
+ 
   <li>
     <h4>🔹 End of Studies Internship - SEOMANIAK, Oujda (Apr - May 2025 - 8 weeks)</h4>
   </li>
+
   <li>
     <h4>🔹 Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)</h4>
   </li>
 </ul>
-
+--> 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
