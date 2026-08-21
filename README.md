@@ -155,11 +155,10 @@
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
   
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,docker,npm,postman,linux,git,github,blender" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,docker,npm,postman,linux,git,blender" />
   </p>
 
 </div> 
