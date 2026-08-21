@@ -171,10 +171,8 @@
     <td width="80%">
       <h4>🎯 Engineering Student – Computer Engineering (Now)</h4>
       <p>National School of Artificial Intelligence and Digital Technology (ENIAD), Berkane, Morocco</p>
-     <!-- 
       <h4>🎯 Specialized Technician – Computer Engineering (2023 – 2025)</h4>
       <p>Higher School of Technology (EST), Oujda, Morocco</p>
-      -->
     </td>
     <td width="20%">
       <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Student GIF" width="150px">
