@@ -333,7 +333,7 @@
   <a href="https://github.com/aymaneaziz">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/ayman_az.17">
+  <a href="https://www.instagram.com/aymane_az17">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
