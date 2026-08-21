@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer+Junior;Tech+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
+<!-- Start -->
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+
+
 <div align="center">
   <a href="mailto:aymenaziz1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-aymenaziz1234%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
