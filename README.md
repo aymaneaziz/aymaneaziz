@@ -67,16 +67,16 @@
   <table>
     <tr>
       <td valign="top">
-        <p>I'm a passionate software developer from Morocco with a strong focus on creating clean, efficient, and user-friendly applications, I love to explore new technologies and continuously expand my skill set.</p>
+        <p>Software Engineer based in Morocco 🇲🇦 — specializing in low-latency systems, robust architecture, and high-throughput applications. I translate complex domain logic into clean, predictable code.</p>
         <ul>
-          <li>🔭 I'm currently working on: <b>Advanced web applications </b></li>
-          <li>🌱 I'm currently learning: <b>Cloud technologies</b></li>
-          <li>👯 I'm looking to collaborate on: <b>Open source projects</b></li>
-          <li>💬 Ask me about: <b>C++, Java, Software Architecture</b></li>
-          <li>⚡ Fun fact: <b>I can solve a Rubik's cube in under 2 minutes!</b></li>
+          <li>🔭 <b>Currently Building:</b> Distributed web applications optimized for scale</li>
+          <li>🌱 <b>Deep Diving:</b> Cloud-native paradigms, serverless primitives & edge computing</li>
+          <li>👯 <b>Open to Collaborations:</b> High-impact open-source systems & low-level frameworks</li>
+          <li>💬 <b>Domain Expertise:</b> C++, Java, Systems Design, & Software Architecture</li>
+          <li>⚡ <b>System Metric:</b> Rubik's Cube state space ($4.3 \times 10^{19}$ permutations) solved in $O(1)$ human time (<2 min)</li>
         </ul>
       </td>
-      <td width="35%">
+      <td width="35%" align="center" valign="middle">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U1Z2RoZ2UzeGRsNm9ndXQ3M2RyNjNvMmcweWduemc3dHc3cnZkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%">
       </td>
     </tr>
