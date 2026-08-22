@@ -73,7 +73,7 @@
           <li>🌱 <b>Deep Diving:</b> Cloud-native paradigms, serverless primitives & edge computing</li>
           <li>👯 <b>Open to Collaborations:</b> High-impact open-source systems & low-level frameworks</li>
           <li>💬 <b>Domain Expertise:</b> C++, Java, Systems Design, & Software Architecture</li>
-          <li>⚡ <b>System Metric:</b> Rubik's Cube state space ($4.3 \times 10^{19}$ permutations) solved in $O(1)$ human time (<2 min)</li>
+          <li>⚡ <b>System Metric:</b> Rubik's Cube state space ($4.3 \times 10^{19}$ permutations) solved in $O(1)$ human time (<120s)</li>
         </ul>
       </td>
       <td width="35%" align="center" valign="middle">
