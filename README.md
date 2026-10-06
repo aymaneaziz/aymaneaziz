@@ -195,7 +195,7 @@
     <h4>🔹 Internship - SUPMTI, Oujda (Jul 2024 - 4 weeks)</h4>
   </li>
 </ul>
---> 
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
@@ -299,7 +299,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
+--> 
 ## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Certifications & Achievements</b>
 
 <div align="center">
