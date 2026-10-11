@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/aymaneaziz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+World!+%F0%9F%91%8B;I'm+Aymane+AZIZ;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=500&height=70&lines=Heeeey+%F0%9F%91%8B;I'm+Aymane+AZIZ;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </h1>
 
