@@ -20,10 +20,12 @@
   <a href="https://www.linkedin.com/in/aziz77">
     <img src="https://img.shields.io/badge/LinkedIn-Aymane_AZIZ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
+ <!-- 
   <a href="tel:+212766633323">
     <img src="https://img.shields.io/badge/Phone-+212766633323-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
   </a>
+  -->
+  
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aymaneaziz&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
