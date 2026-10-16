@@ -79,7 +79,10 @@
         </ul>
       </td>
       <td width="35%" align="center" valign="middle">
+         <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Student GIF" width="150px">
+        <!--
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U1Z2RoZ2UzeGRsNm9ndXQ3M2RyNjNvMmcweWduemc3dHc3cnZkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%">
+         -->
       </td>
     </tr>
   </table>
