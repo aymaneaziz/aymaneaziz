@@ -169,8 +169,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🎓 Education
 
+ <!--
+## 🎓 Education 
+-->
+ <!--
 <table>
   <tr>
     <td width="80%">
@@ -186,7 +189,7 @@
 </table>
 
 <!-- ## 💼 Professional Experience -->
- <!--
+<!--
 <ul>
  
   <li>
@@ -301,7 +304,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
---> 
+
 ## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Certifications & Achievements</b>
 
 <div align="center">
@@ -325,7 +328,7 @@
     <img src="https://img.shields.io/badge/Coursera-Business_Analysis_&_Process_Management-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Business Analysis">
   </a>
 </div>
-
+--> 
 ## 🌐 Connect With Me
 
 <p align="center">
