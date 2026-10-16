@@ -360,7 +360,7 @@
  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+growing.;Thank+you+for+visiting+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+growing." alt="Typing SVG" />
 </h3>
 
 
