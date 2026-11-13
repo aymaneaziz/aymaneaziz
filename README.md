@@ -73,8 +73,8 @@
         <ul>
           <li>🔭 <b>Currently Building:</b> Distributed web applications optimized for scale</li>
           <li>🌱 <b>Deep Diving:</b> Cloud-native paradigms, serverless primitives & edge computing</li>
-          <li>👯 <b>Open to Collaborations:</b> High-impact open-source systems & low-level frameworks</li>
-          <li>💬 <b>Domain Expertise:</b> C++, Java, Systems Design, & Software Architecture</li>
+          <li> 🤝 <b>Open to Collaborations:</b> High-impact open-source systems & low-level frameworks</li>
+          <li> 💬 <b>Domain Expertise:</b> C++, Java, Systems Design, & Software Architecture</li>
           <li>⚡ <b>System Metric:</b> Rubik's Cube state space ($4.3 \times 10^{19}$ permutations) solved in $O(1)$ human time (<120s)</li>
         </ul>
       </td>
@@ -109,6 +109,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<!--
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
 
 <div align="center">
@@ -171,7 +172,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
+-->
 
  <!--
 ## 🎓 Education 
@@ -331,7 +332,7 @@
     <img src="https://img.shields.io/badge/Coursera-Business_Analysis_&_Process_Management-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Business Analysis">
   </a>
 </div>
---> 
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -353,6 +354,7 @@
     <img src="https://img.shields.io/github/followers/aymaneaziz?style=for-the-badge&logo=github&logoColor=white&labelColor=222222&color=6366F1" alt="GitHub followers">
   </a>
 </p>
+--> 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -364,10 +366,11 @@
 </h3>
 
 
-
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Aymane%20AZIZ-F43F5E?style=for-the-badge" alt="Made with love">
 </p>
+-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=&fontSize=0" width="100%"/>
